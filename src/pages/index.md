@@ -121,8 +121,10 @@ sections:
     features:
       - type: feature
         title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
+          “Cindy helped me reach beyond my 66 years of ‘But, I can’t do this
+          because I’m disabled’ attitude. Cindy helped me achieve health
+          milestones during what I thought was the END of my life, but it’s just
+          the BEGINNING.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image_alt: Ursula Gurnmeister photo
         media_position: left
