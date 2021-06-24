@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 60
     background_image_size: auto
     background_image_position: center top
-    media_width: sixty
+    media_width: fourty
   - type: grid_section
     title: Featured On
     grid_items:
