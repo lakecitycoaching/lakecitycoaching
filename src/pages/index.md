@@ -205,7 +205,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: primary
   - type: cta_section
     title: >-
       Are you Sick and Tired of being Sick & Tired? Done with the “Diet roller
