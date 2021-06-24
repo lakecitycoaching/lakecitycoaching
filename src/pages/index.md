@@ -35,6 +35,9 @@ sections:
         image: images/logo-1.svg
         image_alt: Logo 1
         image_align: center
+        title: >-
+          It's the difference between falling off the wagon "again" and finally
+          getting the RESULTS that you want.
       - type: grid_item
         image: images/logo-2.svg
         image_alt: Logo 2
