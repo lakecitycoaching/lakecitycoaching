@@ -51,7 +51,6 @@ sections:
           POSSIBLE.
         content_align: right
       - title: The difference between KNOWING something & DOING it.
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
