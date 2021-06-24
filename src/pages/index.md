@@ -38,7 +38,6 @@ sections:
           It's the difference between falling off the wagon "again" and finally
           getting the RESULTS that you want.
       - type: grid_item
-        image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
         title: It's the difference between feeling ALONE and feeling SUPPORTED.
