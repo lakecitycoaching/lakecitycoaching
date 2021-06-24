@@ -32,7 +32,6 @@ sections:
     title: What is a Health Coach?
     grid_items:
       - type: grid_item
-        image: images/logo-1.svg
         image_alt: Logo 1
         image_align: center
         title: >-
