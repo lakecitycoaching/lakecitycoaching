@@ -21,6 +21,8 @@ sections:
     background_image_size: auto
     background_image_position: center top
     media_width: fourty
+    content: |
+      ##### Our Habit Change Coaching method is fun & it gets lasting results!
   - type: grid_section
     title: Featured On
     grid_items:
