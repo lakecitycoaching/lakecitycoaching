@@ -98,7 +98,7 @@ sections:
     title: My Programs
     features:
       - type: feature
-        title: All the Activity Data You Need to Improve Yourself
+        title: Weight Loss & Energy Reset
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
