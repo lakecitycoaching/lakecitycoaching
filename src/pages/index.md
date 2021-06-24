@@ -9,7 +9,7 @@ sections:
         label: Try for free
         url: /pricing
         style: primary
-    image: /images/lakecitylogo_med.png
+    image: /images/lakecitylogo_small.png
     image_alt: Hero section placeholder image
     media_position: top
     align: center
