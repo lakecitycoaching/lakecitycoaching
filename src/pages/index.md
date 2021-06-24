@@ -110,7 +110,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.png
+        image: /images/belly-2473_640.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
