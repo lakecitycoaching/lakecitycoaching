@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Cindy Spence
-    subtitle: Acheive your Life Goals!
+    subtitle: 'Certified Health Coach, Life Coach & Dietitian'
     actions:
       - type: action
         label: Try for free
