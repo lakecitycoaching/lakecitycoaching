@@ -47,6 +47,9 @@ sections:
         image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
+        title: >-
+          Someone who stretches you to achieve GOALS that you never thought were
+          POSSIBLE.
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
