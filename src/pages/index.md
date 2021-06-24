@@ -50,7 +50,7 @@ sections:
           Someone who stretches you to achieve GOALS that you never thought were
           POSSIBLE.
         content_align: right
-      - title: lorem-ipsum
+      - title: The difference between KNOWING something & DOING it.
         subtitle: lorem-ipsum
         title_align: left
         content: >-
