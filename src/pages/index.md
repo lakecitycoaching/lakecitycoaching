@@ -49,6 +49,7 @@ sections:
         title: >-
           Someone who stretches you to achieve GOALS that you never thought were
           POSSIBLE.
+        content_align: right
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
