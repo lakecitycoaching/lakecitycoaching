@@ -13,7 +13,7 @@ sections:
     image_alt: Hero section placeholder image
     media_position: top
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: small
     background_color: none
     background_image: images/background.svg
