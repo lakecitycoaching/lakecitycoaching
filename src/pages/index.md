@@ -42,6 +42,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         title: It's the difference between feeling ALONE and feeling SUPPORTED.
+        content_align: center
       - type: grid_item
         image: images/logo-3.svg
         image_alt: Logo 3
