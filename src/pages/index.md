@@ -92,7 +92,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: medium
-    background_color: none
+    background_color: primary
     enable_cards: false
   - type: features_section
     title: My Programs
