@@ -125,7 +125,6 @@ sections:
           because I’m disabled’ attitude. Cindy helped me achieve health
           milestones during what I thought was the END of my life, but it’s just
           the BEGINNING.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
