@@ -62,7 +62,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: The difference between I WANT to do it & I DID IT.
         subtitle: lorem-ipsum
         title_align: left
         content: >-
