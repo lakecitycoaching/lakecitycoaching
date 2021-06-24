@@ -197,7 +197,9 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to get started?
+    title: >-
+      Are you Sick and Tired of being Sick & Tired? Done with the “Diet roller
+      coaster”? Ready for a Total Transformation?
     content: Start achieving your goals today!
     actions:
       - type: action
