@@ -28,7 +28,7 @@ sections:
 
       # [208-640-9175](tel:2086409175)
   - type: grid_section
-    title: Featured On
+    title: What is a Health Coach?
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
