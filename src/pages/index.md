@@ -128,7 +128,10 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
-      - title: lorem-ipsum
+      - title: >-
+          “I highly recommend Cindy and this program to anyone who needs to not
+          only lose weight but who wants to have a better relationship with food
+          and themselves.”
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
