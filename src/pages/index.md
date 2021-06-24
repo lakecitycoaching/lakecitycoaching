@@ -132,17 +132,6 @@ sections:
           “I highly recommend Cindy and this program to anyone who needs to not
           only lose weight but who wants to have a better relationship with food
           and themselves.”
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
