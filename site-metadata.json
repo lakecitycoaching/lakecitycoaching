@@ -33,12 +33,6 @@
             },
             {
                 "type": "action",
-                "label": "Log in",
-                "url": "/thank-you",
-                "style": "secondary"
-            },
-            {
-                "type": "action",
                 "label": "Get Started",
                 "url": "/thank-you",
                 "style": "primary"
