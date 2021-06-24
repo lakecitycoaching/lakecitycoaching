@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Cindy Spence
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Acheive your Life Goals!
     actions:
       - type: action
         label: Try for free
