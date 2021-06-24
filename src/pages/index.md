@@ -37,6 +37,7 @@ sections:
         title: >-
           It's the difference between falling off the wagon "again" and finally
           getting the RESULTS that you want.
+        content_align: center
       - type: grid_item
         image_alt: Logo 2
         image_align: center
