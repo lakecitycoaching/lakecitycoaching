@@ -24,7 +24,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: First Name
+        name: first-name
         label: First Name
         options: []
         is_required: true
