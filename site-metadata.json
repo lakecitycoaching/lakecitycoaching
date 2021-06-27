@@ -145,7 +145,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Lake City Coaching. All rights reserved. This site was created by <a href=\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=startup&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Lake City Coaching. All rights reserved. This site was created by <a href=\"\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=startup&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "domain": "https://lakecitycoaching-4061a.netlify.app"
 }
