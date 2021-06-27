@@ -20,17 +20,17 @@ template: post
 thumb_image: /images/IMG_5668.jpeg
 image: /images/IMG_5668.jpeg
 ---
-As a health coach, I've had many of my friends & clients say that I have “aged in reverse” over the past 10 years. It’s true! In many ways, I have. I weigh half of what I did a decade ago, and not only do I no longer need a wheelchair, cane or walker to ambulate, I’m an active woman who loves a variety of outdoor activities such as swimming, hiking, trampoline, biking and just being a “kid” again. In addition….Now, as a Certified Health Coach and experienced Dietitian, I get to show women in their 50’s, 60’s and 70’s how to look and feel fabulous, so they can be active and live life to the fullest without surgeries, crazy diets or pills. 
+As a health coach, I've had many of my friends & clients say that I have “aged in reverse” over the past 10 years. It’s true! In many ways, I have. I weigh half of what I did a decade ago, and not only do I no longer need a wheelchair, cane or walker to ambulate, I’m an active woman who loves a variety of outdoor activities such as swimming, hiking, trampoline, biking and just being a “kid” again. In addition….Now, as a Certified Health Coach and experienced Dietitian, I get to show women in their 50’s, 60’s and 70’s how to look and feel fabulous, so they can be active and live life to the fullest without surgeries, crazy diets or pills.
 
-### We are bombarded daily with expensive products and diets that promise “fat busting, energy soaring, fountain of youth, skinny making” miracles. 
+### We are bombarded daily with expensive products and diets that promise “fat busting, energy soaring, fountain of youth, skinny making” miracles.
 
-Most of us know that so much of what we read or hear out there is empty hype, right? The GOOD NEWS is, that there are natural, fun & healthy ways to avoid the anti-aging mistakes that so many of us make! Before I share the Top 10 anti-aging mistakes that I see my health coaching clients make, let’s take a quick look at this truth…... 
+Most of us know that so much of what we read or hear out there is empty hype, right? The GOOD NEWS is, that there are natural, fun & healthy ways to avoid the anti-aging mistakes that so many of us make! Before I share the Top 10 anti-aging mistakes that I see my health coaching clients make, let’s take a quick look at this truth…...
 
-### HOW you age actually has more to do with your LIFESTYLE choices than your genetics. 
+### HOW you age actually has more to do with your LIFESTYLE choices than your genetics.
 
 Yup! It’s true…..Our HABITS are the biggest determiners of the Quality of our Life! Experts agree that although your genes do play a role, almost 90% of HOW you age is actually due to external or extrinsic factors like over-exposure to sun, smoking, toxic food choices, sedentary lifestyles and even pollution.
 
-What this means for you is that you have way more CONTROL over how you age than you thought you did! YES!! With that in mind, let’s dive into my Top 10 mistakes to avoid so you can start taking control over the aging process and feel Fabulous over 50, Sexy at 60 and Sensational at 70! Here we go…. 
+What this means for you is that you have way more CONTROL over how you age than you thought you did! YES!! With that in mind, let’s dive into my Top 10 mistakes to avoid so you can start taking control over the aging process and feel Fabulous over 50, Sexy at 60 and Sensational at 70! Here we go….
 
 # Mistake # 1 Trying to hydrate with sodas, coffee drinks and energy drinks:
 
@@ -66,7 +66,7 @@ Instead of foundation use a tinted moisturizer or translucent makeup especially 
 
 # Mistake # 5 Using a High PH or drying Body Wash
 
- How this ages your body: Washing your whole body from head to foot with generic bar soaps is often second nature. It’s what our grandmothers used to do right? But the problem is that generic bar soaps are manufactured using lots of harmful ingredients by companies out tomake a profit, not to protect your skin.
+How this ages your body: Washing your whole body from head to foot with generic bar soaps is often second nature. It’s what our grandmothers used to do right? But the problem is that generic bar soaps are manufactured using lots of harmful ingredients by companies out tomake a profit, not to protect your skin.
 
 Bar soaps are usually worse culprits than liquid soaps when it comes to drying out your skin because they generally contain much higher pH levels. What’s a pH level? Good question! This is the first thing to look out for when choosing a soap that’s truly gentle and moisturizing for your skin. The symbol pH stand for “potential of hydrogen” which is a way of measuring the acid or alkaline levels of soaps. In short this is how it works: Your skin’s natural pH level is 5.5 and most brand name bar soaps have a pH of between 8 and 10, which is way too harsh and drying for your
 
@@ -112,14 +112,28 @@ How this ages your look: Your eyes may be the window to your soul, but your teet
 
 What you can do to make a change: STRAWBERRY WHITENING PASTE! Be mindful when you drink coffee, tea or red wine not to swoosh it around on your teeth like a mouthwash because it stains the teeth. Another trick is to use a natural tooth-whitener containing malic acid found in strawberry! Mash one strawberry to a pulp and mix with half a teaspoon of baking powder. Use a toothbrush to coat your teeth with the mixture. Leave on for five minutes and then brush! Now, go out and flash those pearly whites!
 
-
-
 Ready to learn more anti-aging mistakes to avoid? I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: • Look and feel younger without over- spending on pricey products • Experience more energy, and more enjoyment of food, their bodies and their lives • Feel and look great & experience a profound satisfaction that overflows into every area of their lives...(health, relationships, career, finances, and more!)
 
 Would you like to experience these results ? One conversation can spark a completely new perspective. Join me for a private, 1-1 “Fabulous Over 50 Breakthrough Session”.
 
 ### Fabulous Over 50 Breakthrough Session
 
-In this complimentary 55-minute session, I’m going to lead you through a process to help you: • Uncover what’s been stopping you, slowing you down or keeping you from feeling Fabulous • Develop a powerful vision for what Fabulous Over 50 looks like for you • Discover which foods and lifestyle habits are sapping your energy and what to do about it • Get crystal clear on a step-by-step plan to feel Fabulous in 90 days or less I typically charge $125 for these sessions, but because you’re reading this now, this session is my gift to you. All you have to do is show up for yourself. Invest 55 minutes of your time, and I guarantee you will walk away with at least one major “aha” about why you are stuck and how to get unstuck. Contact Me to talk about your “Fabulous Over 50 Breakthrough Session”. 208-518-3759 or email <LakeCityCoaching@gmail.com>
+In this complimentary 55-minute session, I’m going to lead you through a process to help you:
+
+*   Uncover what’s been stopping you, slowing you down or keeping you from feeling Fabulous
+
+*   Develop a powerful vision for what Fabulous Over 50 looks like for you
+
+*   Discover which foods and lifestyle habits are sapping your energy and what to do about it
+
+*   Get crystal clear on a step-by-step plan to feel Fabulous in 90 days or less
+
+I typically charge $125 for these sessions, but because you’re reading this now, this session is my gift to you. 
+
+> All you have to do is show up for yourself. 
+
+Invest 55 minutes of your time, and I guarantee you will walk away with at least one major “aha” about why you are stuck and how to get unstuck. Contact Me to talk about your “Fabulous Over 50 Breakthrough Session”. 
+
+### 208-518-3759 or email <LakeCityCoaching@gmail.com>
 
 PS—If you’re ready to uncover what’s been aging you, draining your energy or keeping you from feeling youthful and joyful, then NOW is the perfect time to schedule a private “Fabulous Over 50 Breakthrough Session” with me. I’ll help you discover which foods and lifestyle habits are aging YOU (every body is different)… and what to do about it. Plus I’ll show you how to get crystal clear on a step-by-step plan to look and feel 10 years younger in 90 days or less. \*Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session (\*This invitation is only valid while there are available times on my calendar)
