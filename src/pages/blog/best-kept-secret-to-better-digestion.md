@@ -1,6 +1,8 @@
 ---
 title: My Best Kept Secret to Better Digestion
-subtitle: lorem-ipsum
+subtitle: >-
+  Your favorite Health Coach here to share my best kept secret with you for
+  better digestion!
 date: '2021-06-27'
 categories: []
 tags: []
