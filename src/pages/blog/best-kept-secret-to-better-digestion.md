@@ -15,6 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+author: src/data/team/person-4gwmvreyz.yaml
 ---
 ## Lorem ipsum
 
