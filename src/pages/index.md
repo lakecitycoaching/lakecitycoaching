@@ -136,9 +136,6 @@ sections:
       - type: grid_item
         title: What to Do
         title_align: left
-        content: >
-          Goals take time, hard work, perseverance and commitment to achieve
-          it. 
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
