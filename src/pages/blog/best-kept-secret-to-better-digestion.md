@@ -17,7 +17,7 @@ seo:
 template: post
 author: src/data/team/person-4gwmvreyz.yaml
 ---
-Your favorite Health Coach here to share my best kept secret with you for better digestion!
+
 
 > But first, why am I talking about having better digestion in the first place?
 
