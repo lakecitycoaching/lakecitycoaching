@@ -17,7 +17,7 @@ template: post
 author: src/data/team/person-4gwmvreyz.yaml
 subtitle: >-
   The best way to ensure that we are helping make it easy for our bodies to
-  digest our food is
+  digest our food is...
 ---
 
 
