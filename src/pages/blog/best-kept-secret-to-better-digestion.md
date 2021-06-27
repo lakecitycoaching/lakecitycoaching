@@ -19,11 +19,9 @@ subtitle: >-
   The best way to ensure that we are helping make it easy for our bodies to
   digest our food is...
 ---
-
-
 > But first, why am I talking about having better digestion in the first place?
 
-Great question!
+### Great question!
 
 We all know that suffering from digestive problems such as gas, bloating, acid reflux, stomach cramps, diarrhea, constipation, irritable bowel syndrome or inflammatory bowel disease can seriously hinder our daily functioning and make us miserable.
 
@@ -33,15 +31,17 @@ Your GI tract first breaks down your food by the mechanical process of chewing a
 
 The best way to ensure that we are helping make it easy for our bodies to digest our food is to chew A LOT so that our food mixes with our digestive juices so it can be easily digested and better absorbed for optimal nutrition.
 
-So what is my best kept secret to better digestion?
+> So what is my best kept secret to better digestion?
 
-# CHEWING!
+## CHEWING!
 
 Believe it or not chewing is one of the most important aids to our digestion and it’s also one we often take for granted so much so that we sometimes just swallow our food whole, forgetting to grind our teeth altogether!
 
 Learning how to chew your food properly (up to 30 times per bite) will help you extract the maximum nutrients from your food and get your digestive juices flowing right AND help keep your weight down and your tummy flat.
 
-How? Because if you eat healthy food packed with nutrients that you chew properly with each bite, you will be able to recognize once you feel full and you will therefore eat less!
+### How? 
+
+Because if you eat healthy food packed with nutrients that you chew properly with each bite, you will be able to recognize once you feel full and you will therefore eat less!
 
 My clients find that learning how-to chew helps to: 
 
@@ -61,6 +61,6 @@ Even if you only have 5 minutes for a meal, let the chewing relax you and use it
 
 In my health coaching practice, I help clients understand why they eat in a rush and forget to chew and we come up with a how-to guide for chewing that is easy to implement and turns eating into a whole new enjoyable experience. No more bloat!
 
-If you want to learn how you to eat for better digestion that will lead to a flatter, firmer belly then call or email now to schedule a time to talk with me about it. This is YOUR time!
+If you want to learn how you to eat for better digestion that will lead to a flatter, firmer belly then call or email now to schedule a time to talk with me about it. 
 
-To your health, Cindy <LakeCityCoaching@gmail.com>
+## This is YOUR time!
