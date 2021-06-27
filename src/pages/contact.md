@@ -32,7 +32,6 @@ sections:
       - input_type: text
         name: last-name
         label: Last Name
-        default_value: Last Name
         options: []
         is_required: false
         type: form_field
