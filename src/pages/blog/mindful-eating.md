@@ -1,6 +1,8 @@
 ---
 title: Mindful Eating
-subtitle: lorem-ipsum
+subtitle: >-
+  Cindy is here to help you learn what mindful eating is all about and how it
+  can help you LOSE WEIGHT and KEEP IT OFF!
 date: '2021-06-27'
 categories: []
 tags: []
