@@ -42,7 +42,7 @@ Learning how to chew your food properly (up to 30 times per bite) will help you 
 
 Because if you eat healthy food packed with nutrients that you chew properly with each bite, you will be able to recognize once you feel full and you will therefore eat less!
 
-My clients find that learning how-to chew helps to: 
+My clients find that learning how-to chew helps to:
 
 *   Sense intuitively when you are full
 
