@@ -128,12 +128,16 @@ In this complimentary 55-minute session, I’m going to lead you through a proce
 
 *   Get crystal clear on a step-by-step plan to feel Fabulous in 90 days or less
 
-I typically charge $125 for these sessions, but because you’re reading this now, this session is my gift to you. 
+I typically charge $125 for these sessions, but because you’re reading this now, this session is my gift to you.
 
-> All you have to do is show up for yourself. 
+> All you have to do is show up for yourself.
 
-Invest 55 minutes of your time, and I guarantee you will walk away with at least one major “aha” about why you are stuck and how to get unstuck. Contact Me to talk about your “Fabulous Over 50 Breakthrough Session”. 
+Invest 55 minutes of your time, and I guarantee you will walk away with at least one major “aha” about why you are stuck and how to get unstuck. Contact Me to talk about your “Fabulous Over 50 Breakthrough Session”.
 
-### 208-518-3759 or email <LakeCityCoaching@gmail.com>
+#### 208-518-3759 or email <LakeCityCoaching@gmail.com>
 
-PS—If you’re ready to uncover what’s been aging you, draining your energy or keeping you from feeling youthful and joyful, then NOW is the perfect time to schedule a private “Fabulous Over 50 Breakthrough Session” with me. I’ll help you discover which foods and lifestyle habits are aging YOU (every body is different)… and what to do about it. Plus I’ll show you how to get crystal clear on a step-by-step plan to look and feel 10 years younger in 90 days or less. \*Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session (\*This invitation is only valid while there are available times on my calendar)
+PS—If you’re ready to uncover what’s been aging you, draining your energy or keeping you from feeling youthful and joyful, then NOW is the perfect time to schedule a private “Fabulous Over 50 Breakthrough Session” with me. I’ll help you discover which foods and lifestyle habits are aging YOU (every body is different)… and what to do about it. Plus I’ll show you how to get crystal clear on a step-by-step plan to look and feel 10 years younger in 90 days or less. 
+
+#### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session 
+
+(\*This invitation is only valid while there are available times on my calendar)
