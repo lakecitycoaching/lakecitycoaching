@@ -39,7 +39,7 @@ Believe it or not chewing is one of the most important aids to our digestion and
 
 Learning how to chew your food properly (up to 30 times per bite) will help you extract the maximum nutrients from your food and get your digestive juices flowing right AND help keep your weight down and your tummy flat.
 
-### How? 
+### How?
 
 Because if you eat healthy food packed with nutrients that you chew properly with each bite, you will be able to recognize once you feel full and you will therefore eat less!
 
@@ -61,6 +61,6 @@ Even if you only have 5 minutes for a meal, let the chewing relax you and use it
 
 In my health coaching practice, I help clients understand why they eat in a rush and forget to chew and we come up with a how-to guide for chewing that is easy to implement and turns eating into a whole new enjoyable experience. No more bloat!
 
-If you want to learn how you to eat for better digestion that will lead to a flatter, firmer belly then call or email now to schedule a time to talk with me about it. 
+If you want to learn how you to eat for better digestion that will lead to a flatter, firmer belly then call or email now to schedule a time to talk with me about it.
 
-## This is YOUR time!
+### This is YOUR time!
