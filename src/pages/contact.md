@@ -30,7 +30,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: Last Name
+        name: last-name
         label: Last Name
         default_value: Last Name
         options: []
