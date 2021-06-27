@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mindful Eating
 subtitle: lorem-ipsum
 date: '2021-06-27'
 categories: []
