@@ -112,7 +112,15 @@ How this ages your look: Your eyes may be the window to your soul, but your teet
 
 What you can do to make a change: STRAWBERRY WHITENING PASTE! Be mindful when you drink coffee, tea or red wine not to swoosh it around on your teeth like a mouthwash because it stains the teeth. Another trick is to use a natural tooth-whitener containing malic acid found in strawberry! Mash one strawberry to a pulp and mix with half a teaspoon of baking powder. Use a toothbrush to coat your teeth with the mixture. Leave on for five minutes and then brush! Now, go out and flash those pearly whites!
 
-Ready to learn more anti-aging mistakes to avoid? I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: • Look and feel younger without over- spending on pricey products • Experience more energy, and more enjoyment of food, their bodies and their lives • Feel and look great & experience a profound satisfaction that overflows into every area of their lives...(health, relationships, career, finances, and more!)
+# Ready to learn more anti-aging mistakes to avoid? 
+
+I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: • 
+
+*   Look and feel younger without over- spending on pricey products
+
+*   Experience more energy, and more enjoyment of food, their bodies and their lives
+
+*   Feel and look great & experience a profound satisfaction that overflows into every area of their lives...health, relationships, career, finances, and more!
 
 Would you like to experience these results ? One conversation can spark a completely new perspective. Join me for a private, 1-1 “Fabulous Over 50 Breakthrough Session”.
 
@@ -136,8 +144,8 @@ Invest 55 minutes of your time, and I guarantee you will walk away with at least
 
 #### 208-518-3759 or email <LakeCityCoaching@gmail.com>
 
-PS—If you’re ready to uncover what’s been aging you, draining your energy or keeping you from feeling youthful and joyful, then NOW is the perfect time to schedule a private “Fabulous Over 50 Breakthrough Session” with me. I’ll help you discover which foods and lifestyle habits are aging YOU (every body is different)… and what to do about it. Plus I’ll show you how to get crystal clear on a step-by-step plan to look and feel 10 years younger in 90 days or less. 
+PS—If you’re ready to uncover what’s been aging you, draining your energy or keeping you from feeling youthful and joyful, then NOW is the perfect time to schedule a private “Fabulous Over 50 Breakthrough Session” with me. I’ll help you discover which foods and lifestyle habits are aging YOU (every body is different)… and what to do about it. Plus I’ll show you how to get crystal clear on a step-by-step plan to look and feel 10 years younger in 90 days or less.
 
-#### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session 
+#### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
