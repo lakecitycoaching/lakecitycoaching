@@ -32,7 +32,7 @@ sections:
       - input_type: text
         name: Last Name
         label: Last Name
-        default_value: lorem-ipsum
+        default_value: Last Name
         options: []
         is_required: false
         type: form_field
