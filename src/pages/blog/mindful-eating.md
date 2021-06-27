@@ -62,7 +62,7 @@ My clients find that eating mindfully helps to: 
 
 ### Glad you asked!
 
-It’s time for you to learn more about mindful eating if you answer “YES” to any of these questions: 
+It’s time for you to learn more about mindful eating if you answer “YES” to any of these questions:
 
 *   You get bloated after eating
 
