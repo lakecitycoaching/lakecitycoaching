@@ -40,7 +40,7 @@ sections:
         label: Email
         default_value: youremail@youremailprovider.com
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
