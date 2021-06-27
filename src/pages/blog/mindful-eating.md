@@ -22,7 +22,7 @@ template: post
 
 > Why is it important to be mindful of what, when & how we’re eating anyway?
 
-### Good question! 
+### Good question!
 
 In today’s world we eat for convenience rather than for nutrition. We eat for instant gratification rather than long-term health benefits.
 
@@ -32,9 +32,9 @@ I can help you to learn to eat mindfully and enjoy your food more! I can help yo
 
 # So what is mindful eating?
 
-Mindful eating means taking the time to honor your food by choosing high quality, organic food, preparing it with care and using all of your senses to enjoy it fully! 
+Mindful eating means taking the time to honor your food by choosing high quality, organic food, preparing it with care and using all of your senses to enjoy it fully!
 
-> Food id NOT the enemy!
+> Food is NOT the enemy!
 
 It means allocating quiet time to prepare and enjoy eating your meal without rushing or multitasking at the same time. Mindful eating is a way of saying to yourself:
 
