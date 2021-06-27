@@ -60,40 +60,40 @@ My clients find that eating mindfully helps to: 
 
 > How will I know if it’s time for me to learn to eat mindfully?
 
-### Glad you asked! 
+### Glad you asked!
 
-It’s time for you to learn more about mindful eating if you answer “YES” to any of these questions:  
+It’s time for you to learn more about mindful eating if you answer “YES” to any of these questions: 
 
-*   You get bloated after eating  
+*   You get bloated after eating
 
-*   You gain weight easily (especially in your belly)  
+*   You gain weight easily (especially in your belly)
 
-*   You eat so fast that you don’t have a clue how much you just consumed  
+*   You eat so fast that you don’t have a clue how much you just consumed
 
-*   You eat to numb out  
+*   You eat to numb out
 
-*   You have extra pounds that just won’t budge with diet and exercise  
+*   You have extra pounds that just won’t budge with diet and exercise
 
-*   You crave sugar or starchy foods  
+*   You crave sugar or starchy foods
 
-*   You have difficulty focusing or foggy brain  
+*   You have difficulty focusing or foggy brain
 
-*   You feel lethargic after eating  
+*   You feel lethargic after eating
 
-*   You have allergies or hay fever  
+*   You have allergies or hay fever
 
 *   You eat foods that aren’t healthy for you but you just can’t stop
 
-> What do I do now? 
+> What do I do now?
 
-In my health coaching practice here at Lake City Coaching, I help clients discover what triggers them to overeat. Then I lead them through a step-by-step process to learn how to eat mindfully and to learn what to eat for their unique body type. 
+In my health coaching practice here at Lake City Coaching, I help clients discover what triggers them to overeat. Then I lead them through a step-by-step process to learn how to eat mindfully and to learn what to eat for their unique body type.
 
-## Diets don’t work. 
+## Diets don’t work.
 
-If you answered “YES” to any of the symptoms above, then contact us to schedule a time to talk with me about how you can learn to eat mindfully. 
+If you answered “YES” to any of the symptoms above, then contact us to schedule a time to talk with me about how you can learn to eat mindfully.
 
-It’s one of the main habits that has allowed me to maintain a 200 pound weight loss for nearly a decade! 
+It’s one of the main habits that has allowed me to maintain a 200 pound weight loss for nearly a decade!
 
-I’ll help you understand what’s blocking you from eating mindfully and I’ll show you how to get started. 
+I’ll help you understand what’s blocking you from eating mindfully and I’ll show you how to get started.
 
 ### This is YOUR time!
