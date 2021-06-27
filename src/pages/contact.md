@@ -38,7 +38,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: youremail@youremailprovider
+        default_value: youremail@youremailprovider.com
         options: []
         is_required: false
         type: form_field
