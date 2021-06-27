@@ -44,7 +44,7 @@ It means allocating quiet time to prepare and enjoy eating your meal without rus
 
 Think of this type of eating as a joyful meditation. It means choosing to be present with your food and the way you eat it. To really appreciate it.
 
-My clients find that eating mindfully helps to: 
+My clients find that eating mindfully helps to:
 
 *   Know when you are full (not stuffed)
 
