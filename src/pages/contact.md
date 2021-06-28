@@ -41,7 +41,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: checkbox
-        name: 'Do not add me to '
+        name: Do not add me to mailing list
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
