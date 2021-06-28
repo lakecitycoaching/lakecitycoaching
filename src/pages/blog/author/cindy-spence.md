@@ -109,7 +109,7 @@ seo:
     - name: 'twitter:title'
       value: Posts by Cindy Spence
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Cindy is a Health Coach who will transforim your life for the better.
     - name: 'twitter:image'
       value: images/post-5.jpg
       relativeUrl: true
