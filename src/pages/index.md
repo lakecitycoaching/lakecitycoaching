@@ -20,6 +20,7 @@ sections:
     background_image_opacity: 60
     background_image_size: auto
     background_image_position: center top
+    attachment: fixed
     media_width: fourty
     content: |
       ##### Our Habit Change Coaching method is fun & it gets lasting results!
