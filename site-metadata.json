@@ -147,5 +147,6 @@
         ],
         "content": "&copy; Lake City Coaching. All rights reserved. This site was created by <a href=\"mailto:marcusjamesreed@gmail.com\">Marcus Reed</a>"
     },
-    "domain": "https://lakecitycoaching-4061a.netlify.app"
+    "domain": "https://lakecitycoaching-4061a.netlify.app",
+    "favicon": "/images/lakecitylogo_xs.png"
 }
