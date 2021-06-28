@@ -16,7 +16,7 @@ sections:
     padding_top: none
     padding_bottom: small
     background_color: none
-    background_image: images/background.svg
+    background_image: /images/20170702_171101.jpg
     background_image_opacity: 60
     background_image_size: auto
     background_image_position: center top
