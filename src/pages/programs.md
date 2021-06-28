@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Programs
 sections: []
 seo:
   title: ''
