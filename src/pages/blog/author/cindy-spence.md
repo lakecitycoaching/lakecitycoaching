@@ -77,7 +77,7 @@ sections:
     padding_bottom: large
     has_border: true
     actions:
-      - label: lorem-ipsum
+      - label: Contact Cindy
         url: '#'
         style: link
         has_icon: false
