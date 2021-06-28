@@ -101,7 +101,7 @@ seo:
       value: Cindy is a Health Coach who will transforim your life for the better.
       keyName: property
     - name: 'og:image'
-      value: images/post-5.jpg
+      value: /_static/app-assets/Screenshot%202021-06-28%2011.26.03%20AM.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
