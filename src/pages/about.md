@@ -36,8 +36,7 @@ HABIT CHANGE.
 Gentle, fun, pleasurable habit change. 
 Deprivation? 
 No, thank you!
-After joyfully regaining my health and
-energy, and successfully maintaining a 200
+After joyfully regaining my health and energy, and successfully maintaining a 200
 pound weight loss for many years, I decided
 to study and document the habits of the 3%
 of people (including myself) that actually
