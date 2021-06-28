@@ -45,7 +45,7 @@
                 "type": "action"
             },
             {
-                "label": "FAQ's",
+                "label": "FAQ",
                 "url": "/faq",
                 "style": "link",
                 "has_icon": false,
