@@ -236,7 +236,9 @@ seo:
     - name: 'twitter:title'
       value: Lake City Coaching
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: >-
+        Cindy Spence is a Health Coach who will transform your life for the
+        better!
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
