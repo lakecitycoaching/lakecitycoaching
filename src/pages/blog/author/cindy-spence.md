@@ -2,7 +2,7 @@
 title: Cindy Spence
 sections:
   - type: hero_section
-    title: Posts by Cindy Spence
+    title: Cindy Spence
     align: center
     padding_top: medium
     padding_bottom: none
