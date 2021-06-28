@@ -4,7 +4,8 @@ subtitle: >-
   Cindy is here to help you learn what mindful eating is all about and how it
   can help you LOSE WEIGHT and KEEP IT OFF!
 date: '2021-06-27'
-categories: []
+categories:
+  - src/data/categories/tips.yaml
 tags: []
 excerpt: Learn more
 thumb_image_alt: lorem-ipsum
