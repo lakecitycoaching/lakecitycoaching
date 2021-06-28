@@ -16,7 +16,7 @@
             {
                 "type": "action",
                 "label": "Contact Us",
-                "url": "/thank-you",
+                "url": "/contact",
                 "style": "primary"
             }
         ],
