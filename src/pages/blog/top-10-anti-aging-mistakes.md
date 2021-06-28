@@ -21,6 +21,7 @@ seo:
 template: post
 thumb_image: /images/IMG_5668.jpeg
 image: /images/IMG_5668.jpeg
+author: src/data/team/cindy-spence.yaml
 ---
 As a health coach, I've had many of my friends & clients say that I have “aged in reverse” over the past 10 years. It’s true! In many ways, I have. I weigh half of what I did a decade ago, and not only do I no longer need a wheelchair, cane or walker to ambulate, I’m an active woman who loves a variety of outdoor activities such as swimming, hiking, trampoline, biking and just being a “kid” again. In addition….Now, as a Certified Health Coach and experienced Dietitian, I get to show women in their 50’s, 60’s and 70’s how to look and feel fabulous, so they can be active and live life to the fullest without surgeries, crazy diets or pills.
 
