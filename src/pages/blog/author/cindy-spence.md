@@ -95,7 +95,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Brandon Guidelines
+      value: Posts by Cindy Spence
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
