@@ -20,6 +20,7 @@ seo:
 template: post
 thumb_image: /images/IMG_5664.jpeg
 image: /images/IMG_5664.jpeg
+author: src/data/team/brandon-guidelines.yaml
 ---
 # Do you even remember what you ate?
 
