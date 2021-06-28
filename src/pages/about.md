@@ -32,7 +32,7 @@ template: page
 As an experienced Dietitian for a variety of Weight Loss Clinics & Health Clubs, I've learned that knowledge does not equal habit change.
 Most of my adult life was lived on the roller coaster somewhere between obese and "crash dieting". I spent 7 years in a wheelchair as a result of obesity related conditions. I blew out both of my knees, and a hip (resulting in the need for 3 total joint replacements), suffered from arthritis, high cholesterol, sleep apnea, high blood pressure, hernia, unstable blood sugar, acid-reflux, congestive heart failure, asthma, anxiety and depression.
 
-![](/\images/Screenshot%202021-06-28%2011.26.03%20AM.png)
+![](/images/Screenshot%202021-06-28%2011.26.03%20AM.png)
 
 ### Today, I am grateful to be FREE from ALL of those conditions, and ALL of the medications I took to treat them.
 
