@@ -29,12 +29,8 @@ seo:
       relativeUrl: true
 template: page
 ---
-As an experienced Dietitian for a variety of
-Weight Loss Clinics & Health Clubs, I've
-learned that knowledge does not equal habit
-change.
-Most of my adult life was lived on the roller
-coaster somewhere between obese and "crash
+As an experienced Dietitian for a variety of Weight Loss Clinics & Health Clubs, I've learned that knowledge does not equal habit change.
+Most of my adult life was lived on the roller coaster somewhere between obese and "crash
 dieting".
 I spent 7 years in a wheelchair as a result of
 obesity related conditions. I blew out both
