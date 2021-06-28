@@ -1,7 +1,8 @@
 ---
 title: My Best Kept Secret to Better Digestion
 date: '2021-06-27'
-categories: []
+categories:
+  - src/data/categories/tips.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
