@@ -24,7 +24,7 @@
         "primary_nav_links": [
             {
                 "label": "About",
-                "url": "/blog/author",
+                "url": "/blog/author/cindy-spence",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
