@@ -38,7 +38,7 @@ sections:
         label: Questions or Concerns?
         default_value: Please tell us how we can help you today.
         options:
-          - lorem-ipsum
+          - Mailing List Opt-In
         is_required: false
         type: form_field
     submit_label: Submit
