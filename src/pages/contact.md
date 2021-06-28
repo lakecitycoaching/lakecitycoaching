@@ -5,8 +5,8 @@ sections:
     subtitle: Need Help or More Information?
     title_align: left
     content: >
-      ## Lake City Coaching is here to help you. Please fill out the form below
-      and your inquiry will be responded to promptly.
+      Lake City Coaching is here to help you. Please fill out the form below and
+      your inquiry will be responded to promptly.
     content_align: left
     form_position: bottom
     form_width: fifty
