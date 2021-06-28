@@ -76,7 +76,7 @@ Like me, YOU can be part of the 3% to:
 
 If this resonates with you, and you would like to learn more about the Weight loss & Energy Reset program, Contact Us to schedule a complimentary Breakthrough Session.
 
-In this session, we will discover: 
+In this session, we will discover:
 
 1.  What YOUR VISION is for your energy and weight
 
