@@ -99,9 +99,10 @@ sections:
     features:
       - type: feature
         title: Weight Loss & Energy Reset
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          The Lake City Coaching Weight Loss & Energy Reset program begins with
+          one-on-one sessions with your coach to help you clearly identify,
+          embrace and laser focus on what you really want.
         actions:
           - type: action
             label: Learn More
