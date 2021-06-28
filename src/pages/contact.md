@@ -7,6 +7,20 @@ sections:
     content: >
       Lake City Coaching is here to help you. Please fill out the form below and
       your inquiry will be responded to promptly.
+
+
+      Mailing address:
+
+
+      P.O. BOX 1622
+
+      Hayden, ID 83835
+
+
+      Phone: 
+
+
+      (208) 640-9175
     content_align: left
     form_position: bottom
     form_width: fifty
