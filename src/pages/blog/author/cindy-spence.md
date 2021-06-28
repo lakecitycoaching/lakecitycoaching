@@ -111,7 +111,7 @@ seo:
     - name: 'twitter:description'
       value: Cindy is a Health Coach who will transforim your life for the better.
     - name: 'twitter:image'
-      value: images/post-5.jpg
+      value: /images/Screenshot%202021-06-28%2011.26.03%20AM.png
       relativeUrl: true
 template: advanced
 ---
