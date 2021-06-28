@@ -18,6 +18,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+author: src/data/team/cindy-spence.yaml
 ---
 ## Lorem ipsum
 
