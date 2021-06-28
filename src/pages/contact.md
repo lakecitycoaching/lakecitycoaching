@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: Contact Lake City Coaching
+  - title: contact
     subtitle: Need Help or More Information?
     title_align: left
     content: >
