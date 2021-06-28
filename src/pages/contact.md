@@ -42,7 +42,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: opt-out
-        label: lorem-ipsum
+        label: Remove me from mailing list
         default_value: lorem-ipsum
         options: []
         is_required: false
