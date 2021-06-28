@@ -2,7 +2,7 @@
 title: Brandon Guidelines
 sections:
   - type: hero_section
-    title: Posts by Brandon Guidelines
+    title: Posts by Cindy Spence
     align: center
     padding_top: medium
     padding_bottom: none
