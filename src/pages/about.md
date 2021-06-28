@@ -29,25 +29,40 @@ seo:
       relativeUrl: true
 template: page
 ---
-
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
-
-![](/images/team.jpg)
-
-## Work Life Balance
-
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
-
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
-
-With App Land, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
-
-## Careers
-
-**We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*.
-
-![](/images/team-2.jpg)
-
-
-
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
+As an experienced Dietitian for a variety of
+Weight Loss Clinics & Health Clubs, I've
+learned that knowledge does not equal habit
+change.
+Most of my adult life was lived on the roller
+coaster somewhere between obese and "crash
+dieting".
+I spent 7 years in a wheelchair as a result of
+obesity related conditions. I blew out both
+of my knees, and a hip (resulting in the need
+for 3 total joint replacements), suffered from
+arthritis, high cholesterol, sleep apnea, high
+blood pressure, hernia, unstable blood sugar,
+acid reflux, congestive heart failure, asthma,
+anxiety and depression. Today, I am grateful
+to be FREE from ALL of those conditions, and
+ALL of the medications I took to treat them.
+Yes, I went from a wheelchair to walking,
+hiking, playing on a trampoline, horseback
+riding, bicycle riding, swimming and
+occasionally even climbing a tree!
+What made the long term difference? HABIT
+CHANGE. Gentle, fun, pleasurable habit
+change. Deprivation? No, thank you!
+After joyfully regaining my health and
+energy, and successfully maintaining a 200
+pound weight loss for many years, I decided
+to study and document the habits of the 3%
+of people (including myself) that actually
+MAINTAINED a substantial weight loss
+beyond 5 years.
+As a Certified Health Coach, I share my
+knowledge, experience & gentle Habit Change
+Techniques through my practice at Lake City
+Coaching.
+You will receive private, one-on-one coaching
+with a program that gets lasting results!
