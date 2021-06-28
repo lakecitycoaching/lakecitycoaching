@@ -4,17 +4,9 @@ sections:
   - title: Contact Lake City Coaching
     subtitle: Need Help or More Information?
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ## Lake City Coaching is here to help you. Please fill out the form below
+      and your inquiry will be responded to promptly.
     content_align: left
     form_position: bottom
     form_width: fifty
