@@ -228,7 +228,7 @@ seo:
         better!
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/belly-2473_640.jpg
+      value: images/belly-2473_640.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
