@@ -214,7 +214,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Lake City Coaching
-  description: The preview of the Startup theme
+  description: Cindy Spence is a Health Coach who will transform your life for the better!
   extra:
     - name: 'og:type'
       value: website
