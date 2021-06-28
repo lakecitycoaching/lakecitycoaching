@@ -223,7 +223,9 @@ seo:
       value: Lake City Coaching
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: >-
+        Cindy Spence is a Health Coach who will transform your life for the
+        better!
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
