@@ -15,12 +15,6 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Get Started",
                 "url": "/thank-you",
                 "style": "primary"
