@@ -133,6 +133,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
     attachment: fixed
+    background_image: /images/Screenshot 2021-06-28 11.26.03 AM.png
   - type: grid_section
     title: How it works
     grid_items:
