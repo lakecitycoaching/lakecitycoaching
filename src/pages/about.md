@@ -3,7 +3,7 @@ title: About Coach Cindy
 seo:
   type: stackbit_page_meta
   title: About
-  description: This is the about us page
+  description: This is the About Page
   extra:
     - name: 'og:type'
       value: website
