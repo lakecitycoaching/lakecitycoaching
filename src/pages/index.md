@@ -240,7 +240,7 @@ seo:
         Cindy Spence is a Health Coach who will transform your life for the
         better!
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: images/belly-2473_640.jpg
       relativeUrl: true
 template: advanced
 ---
