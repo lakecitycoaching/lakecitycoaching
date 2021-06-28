@@ -200,7 +200,7 @@ sections:
     actions:
       - type: action
         label: Contact Cindy
-        url: /thank-you
+        url: /contact
         style: primary
     actions_width: fourty
     align: center
