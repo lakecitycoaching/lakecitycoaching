@@ -18,6 +18,7 @@ subtitle: >-
   The best way to ensure that we are helping make it easy for our bodies to
   digest our food is...
 thumb_image: /images/IMG_5665.jpeg
+image: /images/IMG_5665.jpeg
 ---
 > But first, why am I talking about having better digestion in the first place?
 
