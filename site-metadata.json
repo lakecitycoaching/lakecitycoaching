@@ -71,7 +71,7 @@
             {
                 "type": "action",
                 "label": "About",
-                "url": "/about",
+                "url": "/blog/author/cindy-spence",
                 "style": "link"
             },
             {
