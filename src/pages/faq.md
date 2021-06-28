@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: Answers to common questions about YourGoal
+    subtitle: Answers to common questions about Lake City Coaching
     align: center
     padding_top: large
     padding_bottom: none
