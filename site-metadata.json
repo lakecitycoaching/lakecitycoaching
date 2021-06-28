@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Contact Us",
+                "label": "Contact Cindy",
                 "url": "/contact",
                 "style": "primary"
             }
