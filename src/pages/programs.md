@@ -1,7 +1,7 @@
 ---
 title: Programs
 sections:
-  - title: lorem-ipsum
+  - title: Programs
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
