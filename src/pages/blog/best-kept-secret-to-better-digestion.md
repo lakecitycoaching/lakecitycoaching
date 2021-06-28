@@ -26,6 +26,8 @@ image: /images/IMG_5665.jpeg
 
 We all know that suffering from digestive problems such as gas, bloating, acid reflux, stomach cramps, diarrhea, constipation, irritable bowel syndrome or inflammatory bowel disease can seriously hinder our daily functioning and make us miserable.
 
+![](/\_static/app-assets/IMG\_5665.jpeg)
+
 Your gastrointestinal tract (GI) tract acts as your body’s food processor and if it’s blocked, overloaded, polluted with toxins such as food additives, pesticides and preservatives it’s going to let you know how it feels by having one of the reactions listed above.
 
 Your GI tract first breaks down your food by the mechanical process of chewing and then by a multitude of complex chemical processes that extracts nutrients to feed your system and expel toxins.
