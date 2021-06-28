@@ -45,8 +45,8 @@
                 "type": "action"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -56,8 +56,8 @@
                 "type": "action"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "FAQ",
+                "url": "/faq",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
