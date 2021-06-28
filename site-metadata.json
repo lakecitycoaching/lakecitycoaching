@@ -10,7 +10,7 @@
         "title": "Lake City Coaching",
         "logo": "/images/lakecitylogo.png",
         "logo_alt": "Lake City Coaching Logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
