@@ -22,6 +22,7 @@ subtitle: >-
   digest our food is...
 thumb_image: /images/IMG_5665.jpeg
 image: /images/IMG_5665.jpeg
+author: src/data/team/cindy-spence.yaml
 ---
 > But first, why am I talking about having better digestion in the first place?
 
