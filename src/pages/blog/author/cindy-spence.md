@@ -67,7 +67,7 @@ sections:
     blog_feed_cols: two
     enable_cards: true
     show_recent: false
-    author: src/data/team/brandon-guidelines.yaml
+    author: src/data/team/cindy-spence.yaml
     show_date: true
     show_categories: true
     show_author: false
