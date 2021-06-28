@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Coach Cindy
 seo:
   type: stackbit_page_meta
   title: About
