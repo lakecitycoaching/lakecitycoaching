@@ -199,7 +199,7 @@ sections:
     content: Start achieving your goals today!
     actions:
       - type: action
-        label: Try for free
+        label: Contact Cindy
         url: /thank-you
         style: primary
     actions_width: fourty
