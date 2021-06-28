@@ -107,7 +107,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts by Brandon Guidelines
+      value: Posts by Cindy Spence
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
