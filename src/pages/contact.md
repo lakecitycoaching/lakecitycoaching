@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Contact
 sections:
   - title: Contact Lake City Coaching
     subtitle: Need Help or More Information?
