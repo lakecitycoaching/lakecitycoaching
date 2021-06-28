@@ -37,8 +37,7 @@ sections:
         name: inquiry
         label: Questions or Concerns?
         default_value: Please tell us how we can help you today.
-        options:
-          - Mailing List Opt-In
+        options: []
         is_required: false
         type: form_field
     submit_label: Submit
