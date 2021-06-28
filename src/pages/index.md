@@ -132,7 +132,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
-    attachment: 
+    attachment: fixed
   - type: grid_section
     title: How it works
     grid_items:
