@@ -58,7 +58,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    form_action: lorum-ipsum
+    form_action: /thank-you
 seo:
   title: ''
   description: ''
