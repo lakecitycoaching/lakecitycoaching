@@ -98,7 +98,7 @@ seo:
       value: Posts by Cindy Spence
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Cindy is a Health Coach who will transforim your life for the better.
       keyName: property
     - name: 'og:image'
       value: images/post-5.jpg
