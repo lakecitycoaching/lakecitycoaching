@@ -3,7 +3,7 @@ title: Cindy Spence
 sections:
   - type: hero_section
     title: Cindy Spence
-    align: center
+    align: left
     padding_top: medium
     padding_bottom: none
     background_color: none
