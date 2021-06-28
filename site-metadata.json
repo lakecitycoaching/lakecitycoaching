@@ -46,7 +46,7 @@
             },
             {
                 "label": "FAQ's",
-                "url": "/faqs",
+                "url": "/faq",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
