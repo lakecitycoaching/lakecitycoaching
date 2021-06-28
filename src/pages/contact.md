@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Contact Lake City Coaching
     subtitle: Need Help or More Information?
     title_align: left
     content: >-
