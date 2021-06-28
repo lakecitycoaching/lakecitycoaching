@@ -35,7 +35,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: inquiry
-        label: Inquiry
+        label: Questions or Concerns?
         default_value: lorem-ipsum
         options: []
         is_required: false
