@@ -62,6 +62,7 @@ sections:
       gets lasting results!
     background_image: /images/Screenshot 2021-06-28 11.26.03 AM.png
     background_image_opacity: 12
+    background_image_size: contain
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
