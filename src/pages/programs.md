@@ -2,7 +2,7 @@
 title: Programs
 sections:
   - title: Programs
-    subtitle: lorem-ipsum
+    subtitle: 'Get some insight into '
     content: >-
       ## Lorem ipsum
 
