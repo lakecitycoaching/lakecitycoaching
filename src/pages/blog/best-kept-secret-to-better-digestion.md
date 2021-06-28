@@ -4,7 +4,9 @@ date: '2021-06-27'
 categories:
   - src/data/categories/tips.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  The best way to ensure that we are helping make it easy for our bodies to
+  digest our food is...
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
