@@ -78,7 +78,7 @@ sections:
     has_border: true
     actions:
       - label: Contact Cindy
-        url: '#'
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left
