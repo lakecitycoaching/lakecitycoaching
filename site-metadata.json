@@ -110,6 +110,17 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "#",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "right",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/",
@@ -138,17 +149,6 @@
                 "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "#",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "right",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "content": "&copy; Lake City Coaching. All rights reserved. This site was created by <a href=\"mailto:marcusjamesreed@gmail.com\">Marcus Reed</a>"
