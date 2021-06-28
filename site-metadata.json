@@ -56,7 +56,8 @@
                 "type": "action"
             }
         ],
-        "anncmnt_content": "Lake City Coaching will continue to follow safe Covid-19 protocols until further notice. Thank you for your patience and understanding.\n"
+        "anncmnt_content": "Lake City Coaching will continue to follow safe Covid-19 protocols until further notice. Thank you for your patience and understanding.\n",
+        "anncmnt_is_home_only": true
     },
     "footer": {
         "type": "footer",
