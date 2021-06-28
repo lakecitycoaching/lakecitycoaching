@@ -35,7 +35,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: inquiry
-        label: lorem-ipsum
+        label: Inquiry
         default_value: lorem-ipsum
         options: []
         is_required: false
