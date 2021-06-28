@@ -2,7 +2,7 @@
 title: Programs
 sections:
   - title: Programs
-    subtitle: 'Get some insight into '
+    subtitle: Get some insight into what I offer
     content: >-
       ## Lorem ipsum
 
