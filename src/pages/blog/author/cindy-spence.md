@@ -89,7 +89,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Posts by Cindy Spence
-  description: This is the author archive page
+  description: Cindy is a Health Coach who will transforim your life for the better.
   extra:
     - name: 'og:type'
       value: website
