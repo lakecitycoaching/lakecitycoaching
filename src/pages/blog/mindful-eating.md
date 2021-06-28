@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-06-27'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: Learn more
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
