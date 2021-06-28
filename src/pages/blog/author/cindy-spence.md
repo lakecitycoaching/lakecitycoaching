@@ -88,7 +88,7 @@ sections:
         type: action
 seo:
   type: stackbit_page_meta
-  title: Posts by Brandon Guidelines
+  title: Posts by Cindy Spence
   description: This is the author archive page
   extra:
     - name: 'og:type'
