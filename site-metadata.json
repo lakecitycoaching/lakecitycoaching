@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Get Started",
+                "label": "Contact Us",
                 "url": "/thank-you",
                 "style": "primary"
             }
