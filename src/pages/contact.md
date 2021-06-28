@@ -59,6 +59,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     form_action: /thank-you
+    background_image: /images/background.svg
 seo:
   title: ''
   description: ''
