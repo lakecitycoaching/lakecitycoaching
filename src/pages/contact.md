@@ -36,7 +36,7 @@ sections:
       - input_type: textarea
         name: inquiry
         label: Questions or Concerns?
-        default_value: lorem-ipsum
+        default_value: Please tell us how we can help you today
         options: []
         is_required: false
         type: form_field
