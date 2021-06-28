@@ -3,17 +3,8 @@ title: Programs
 sections:
   - title: Programs
     subtitle: Get some insight into what I offer
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      All of my programs can be customized to fit your needs.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
