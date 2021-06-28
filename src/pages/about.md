@@ -33,7 +33,9 @@ As an experienced Dietitian for a variety of Weight Loss Clinics & Health Clubs,
 Most of my adult life was lived on the roller coaster somewhere between obese and "crash dieting". I spent 7 years in a wheelchair as a result of obesity related conditions. I blew out both of my knees, and a hip (resulting in the need for 3 total joint replacements), suffered from arthritis, high cholesterol, sleep apnea, high blood pressure, hernia, unstable blood sugar, acid reflux, congestive heart failure, asthma, anxiety and depression. Today, I am grateful to be FREE from ALL of those conditions, and ALL of the medications I took to treat them. Yes, I went from a wheelchair to walking, hiking, playing on a trampoline, horseback riding, bicycle riding, swimming and occasionally even climbing a tree!
 What made the long term difference?
 HABIT CHANGE.
-Gentle, fun, pleasurable habit change. Deprivation? No, thank you!
+Gentle, fun, pleasurable habit change. 
+Deprivation? 
+No, thank you!
 After joyfully regaining my health and
 energy, and successfully maintaining a 200
 pound weight loss for many years, I decided
