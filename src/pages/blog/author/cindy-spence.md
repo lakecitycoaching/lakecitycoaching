@@ -1,5 +1,5 @@
 ---
-title: Brandon Guidelines
+title: Cindy Spence
 sections:
   - type: hero_section
     title: Posts by Cindy Spence
