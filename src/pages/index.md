@@ -213,7 +213,7 @@ sections:
     background_image_position: center top
 seo:
   type: stackbit_page_meta
-  title: Stackbit Startup Theme
+  title: Lake City Coaching
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
