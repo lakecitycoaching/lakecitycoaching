@@ -15,12 +15,6 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
