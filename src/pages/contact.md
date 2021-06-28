@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Need Help or More Information?
     title_align: left
     content: >-
       ## Lorem ipsum
