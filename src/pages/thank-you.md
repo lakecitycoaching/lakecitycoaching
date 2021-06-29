@@ -18,5 +18,6 @@ sections:
     background_image: /images/20170702_171101.jpg
     background_image_opacity: 40
     image: /images/lakecitylogo_xs.png
+    media_position: bottom
 template: advanced
 ---
