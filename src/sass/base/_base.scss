@@ -96,11 +96,11 @@ blockquote {
 	padding: 0 0 0 2.22222em;
 	position: relative;
     color: blue;
-    
+
     &:before {
 		color: gray;
 		content: "\201C";
-		font-size: 8em;
+		font-size: 4em;
 		left: 0;
 		line-height: 0.65;
 		position: absolute;
