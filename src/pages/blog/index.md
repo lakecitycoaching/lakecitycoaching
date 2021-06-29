@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Let's Talk!
-    subtitle: Planning and productivity insights
+    subtitle: Here are some discussions you might be interested in.
     align: center
     padding_top: medium
     padding_bottom: none
