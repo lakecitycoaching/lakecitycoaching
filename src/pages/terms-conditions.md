@@ -25,7 +25,7 @@ template: page
 
 Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Lake City Coaching's relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
 
-The term 'Lake City Coaching' or 'us' or 'we' refers to the owner of the website whose registered office is [address]. . The term 'you' refers to the user or viewer of our website.
+The term 'Lake City Coaching' or 'us' or 'we' refers to the owner of the website whose registered office is P.O. BOX 1622 Hayden, ID 83835. The term 'you' refers to the user or viewer of our website.
 
 The use of this website is subject to the following terms of use:
 
