@@ -105,6 +105,15 @@ blockquote {
 		position: absolute;
 		top: 0;
 	}
+    &:after {
+		color: currentColor;
+		content: "\201C";
+		font-size: 2.66667em;
+		left: 0;
+		line-height: 1;
+		position: absolute;
+		top: 0;
+	}
 }
 
 pre {
