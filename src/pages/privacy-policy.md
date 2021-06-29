@@ -22,23 +22,52 @@ seo:
       value: This is the privacy policy page
 template: page
 ---
+Lake City Coaching is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personal information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+**Lake City Coaching servers may collect the following analytics and information: **
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+*   Internet Protocol (IP) address of computer being used 
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+*   Web pages requested 
 
-### Morbi Egestas Ullamcorper Vulputate
+*   Referring web page 
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+*   Browser used 
 
-### Donec Vitae Tincidunt Erat
+*   Date and time
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Lake City Coaching does not associate this data to individual user identities.
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+**Cookies
+**Lake City Coaching site may use "cookies" in order to deliver web content specific to individual users' interests or to keep *track* of information. Sensitive personal information is not stored within cookies.**
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+**
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+**Webforms**
+Lake City Coaching uses web forms on this site. These forms require users to give contact information such as name and email address. Contact information from the registration form is used only to send material relating to the \[event/course/purpose] for which it was collected and will not be sold to another party. 
+
+
+
+**Use of collected information:**
+
+*   Lake City Coaching will only use personal information collected from this site for the purpose of communication back to individuals who contact us via the site.
+
+*   Lake City Coaching uses browser-IP-address information and anonymous-browser history to report information about site accesses and for profiling purposes. This information is used to improve Web presentation and utilization. IP address information may also be used for troubleshooting purposes.
+
+**Distribution of collected information:**
+
+*   Lake City Coaching will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.
+
+*   Lake City Coaching will not distribute or sell personal information to third-party organizations.
+
+**Privacy Statement Revisions:**
+
+This Privacy Statement was last revised on 6/25/2021. We may change this Privacy Statement at any time and for any reason. We encourage you to review this Privacy Statement each time you visit the web site.
+
+If we make a significant change to our Privacy Statement, we will post a notice on the homepage of our web site for a period of time after the change is made. 
+
+**Responsibility for External Sites:**
+
+This website may contain links to other web sites. Some of those web sites may be operated by third parties. We provide the links for your convenience, but we do not review, control, or monitor the privacy practices of web sites operated by others. 
+
+We are not responsible for the performance of web sites operated by third parties or for your business dealings with them. Therefore, whenever you leave this web site we recommend that you review each web site's privacy practices and make your own conclusions regarding the adequacy of these practices.
