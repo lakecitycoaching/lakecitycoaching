@@ -38,7 +38,7 @@ The best way to ensure that we are helping make it easy for our bodies to digest
 
 > So what is my best kept secret to better digestion?
 
-## CHEWING!
+## CHEWING.
 
 Believe it or not chewing is one of the most important aids to our digestion and it’s also one we often take for granted so much so that we sometimes just swallow our food whole, forgetting to grind our teeth altogether!
 
