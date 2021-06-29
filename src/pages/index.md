@@ -107,7 +107,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /thank-you
+            url: /
             style: link
             has_icon: true
             icon: arrow-right
