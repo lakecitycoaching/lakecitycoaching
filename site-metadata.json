@@ -23,7 +23,7 @@
         "has_anncmnt": true,
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "About Me",
                 "url": "/blog/author/cindy-spence",
                 "style": "link",
                 "has_icon": false,
