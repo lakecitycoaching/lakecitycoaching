@@ -16,7 +16,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 seo:
-  title: ''
+  title: Weight Loss Energy Reset Program
   description: ''
   robots: []
   extra: []
