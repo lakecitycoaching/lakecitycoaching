@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+      Thank you for contacting me. I will respond to your inquiry just as
+      quickly as I can and I look forward to speaking with you directly in the
+      future. Have a wonderful day :-)
     actions:
       - type: action
         label: Back to homepage
