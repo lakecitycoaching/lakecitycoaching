@@ -24,9 +24,7 @@ sections:
     media_width: fourty
     content: |
       ##### Our Habit Change Coaching method is fun & it gets lasting results!
-
-
-
+      
       # [208-640-9175](tel:2086409175)
     has_border: true
   - type: grid_section
