@@ -13,7 +13,7 @@ sections:
     image_alt: Hero section placeholder image
     media_position: top
     align: center
-    padding_top: none
+    padding_top: small
     padding_bottom: small
     background_color: none
     background_image: /images/20170702_171101.jpg
