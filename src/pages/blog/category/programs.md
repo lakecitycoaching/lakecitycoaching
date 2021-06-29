@@ -8,6 +8,7 @@ sections:
     padding_bottom: none
     background_color: none
     subtitle: Designed to fit and improve your life
+    background_image: /images/20170702_171101.jpg
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
