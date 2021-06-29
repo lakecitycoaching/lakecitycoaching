@@ -42,7 +42,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: Blog
+  title: Lake City Coaching Blog
   description: This is the blog page
   extra:
     - name: 'og:type'
