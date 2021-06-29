@@ -202,7 +202,7 @@ sections:
     content: Start achieving your goals today!
     actions:
       - type: action
-        label: Contact Cindy Today
+        label: Contact Cindy Today!
         url: /contact
         style: primary
     actions_width: fourty
