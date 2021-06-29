@@ -1,5 +1,5 @@
 ---
-title: Weight Loss Energy Reset
+title: Weight Loss Energy Reset Program
 subtitle: >-
   The Lake City Coaching Weight Loss & Energy Reset program begins with
   one-on-one sessions with your coach to help you clearly identify, embrace and
