@@ -68,4 +68,6 @@ In my health coaching practice, I help clients understand why they eat in a rush
 
 If you want to learn how you to eat for better digestion that will lead to a flatter, firmer belly then call or email now to schedule a time to talk with me about it.
 
-### This is YOUR time!
+### This is YOUR time.
+
+[Contact Cindy Today](http://lakecitycoaching.netlify.app/contact)
