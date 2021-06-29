@@ -15,5 +15,6 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    background_image: /images/20170702_171101.jpg
 template: advanced
 ---
