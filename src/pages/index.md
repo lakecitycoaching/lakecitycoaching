@@ -99,7 +99,7 @@ sections:
     title: My Programs
     features:
       - type: feature
-        title: Weight Loss & Energy Reset
+        title: Weight Loss & Energy Reset Program
         content: >
           The Lake City Coaching Weight Loss & Energy Reset program begins with
           one-on-one sessions with your coach to help you clearly identify,
