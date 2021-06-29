@@ -41,7 +41,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: Posts in News
+  title: Posts in Programs
   description: This is the category archive page
   extra:
     - name: 'og:type'
