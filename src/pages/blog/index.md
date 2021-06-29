@@ -55,7 +55,7 @@ seo:
       value: This is the blog page
       keyName: property
     - name: 'og:image'
-      value: images/post-5.png
+      value: /_static/app-assets/lakecitylogo_xs.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
