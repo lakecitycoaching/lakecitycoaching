@@ -34,6 +34,17 @@
                 "type": "action"
             },
             {
+                "label": "Programs",
+                "url": "/blog/categories/programs",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link",
@@ -47,17 +58,6 @@
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Programs",
-                "url": "/blog/categories/programs",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
