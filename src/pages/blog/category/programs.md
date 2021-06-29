@@ -10,7 +10,7 @@ sections:
     subtitle: Designed to fit and improve your life
     background_image: /images/20170702_171101.jpg
     background_image_repeat: no-repeat
-    background_image_opacity: 25
+    background_image_opacity: 40
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
