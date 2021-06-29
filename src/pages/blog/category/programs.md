@@ -2,7 +2,7 @@
 title: Programs
 sections:
   - type: hero_section
-    title: Posts in Programs
+    title: My Programs
     align: center
     padding_top: medium
     padding_bottom: none
