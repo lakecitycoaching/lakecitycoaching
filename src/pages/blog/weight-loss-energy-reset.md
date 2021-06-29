@@ -5,7 +5,8 @@ subtitle: >-
   one-on-one sessions with your coach to help you clearly identify, embrace and
   laser focus on what you really want.
 date: '2021-06-28'
-categories: []
+categories:
+  - src/data/categories/programs.yaml
 tags: []
 excerpt: >-
   The Lake City Coaching Weight Loss & Energy Reset program begins with
