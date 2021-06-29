@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Blog
+    title: Let's Talk!
     subtitle: Planning and productivity insights
     align: center
     padding_top: medium
