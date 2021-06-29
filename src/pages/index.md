@@ -6,7 +6,7 @@ sections:
     subtitle: 'Certified Health Coach, Life Coach & Dietitian'
     actions:
       - type: action
-        label: Try for free
+        label: Contact Cindy Today!
         url: /pricing
         style: primary
     image: /images/lakecitylogo_small.png
