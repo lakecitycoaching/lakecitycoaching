@@ -1,8 +1,8 @@
 ---
-title: News
+title: Programs
 sections:
   - type: hero_section
-    title: Posts in News
+    title: Posts in Programs
     align: center
     padding_top: medium
     padding_bottom: none
