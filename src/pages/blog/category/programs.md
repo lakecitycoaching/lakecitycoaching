@@ -7,7 +7,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    subtitle: Designed to fit your life
+    subtitle: Designed to fit and improve your life
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
