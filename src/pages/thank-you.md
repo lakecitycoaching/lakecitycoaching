@@ -16,5 +16,6 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: /images/20170702_171101.jpg
+    background_image_opacity: 40
 template: advanced
 ---
