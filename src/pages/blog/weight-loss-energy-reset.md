@@ -17,7 +17,10 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: Weight Loss Energy Reset Program
-  description: ''
+  description: >-
+    The Lake City Coaching Weight Loss & Energy Reset program begins with
+    one-on-one sessions with your coach to help you clearly identify, embrace
+    and laser focus on what you really want.
   robots: []
   extra: []
   type: stackbit_page_meta
