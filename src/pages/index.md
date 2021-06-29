@@ -107,7 +107,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /blog/
+            url: /blog/weight-loss-energy-reset
             style: link
             has_icon: true
             icon: arrow-right
