@@ -57,7 +57,7 @@
             },
             {
                 "label": "Programs",
-                "url": "/blog/categories/",
+                "url": "/blog/categories/programs",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
