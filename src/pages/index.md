@@ -22,7 +22,7 @@ sections:
     background_image_position: center top
     attachment: fixed
     media_width: fourty
-    content:
+    content: |
       ##### Our Habit Change Coaching method is fun & it gets lasting results!
 
       # [208-640-9175](tel:2086409175)
