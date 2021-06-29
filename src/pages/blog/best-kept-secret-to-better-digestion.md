@@ -12,7 +12,7 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: Best Kept Secret for Better Digestion
-  description: ''
+  description: A health coach shares her secret's
   robots: []
   extra: []
   type: stackbit_page_meta
