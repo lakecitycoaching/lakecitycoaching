@@ -20,6 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    title: Recent Posts
   - type: form_section
     title: Subscribe to our newsletter to make sure you don’t miss anything
     title_align: center
