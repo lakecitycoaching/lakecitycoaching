@@ -48,7 +48,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in News
+      value: Posts in Programs
       keyName: property
     - name: 'og:description'
       value: This is the category archive page
