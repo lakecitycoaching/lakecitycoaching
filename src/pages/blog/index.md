@@ -49,7 +49,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Lake City Coaching Blog
       keyName: property
     - name: 'og:description'
       value: This is the blog page
