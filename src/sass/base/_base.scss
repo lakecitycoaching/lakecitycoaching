@@ -111,6 +111,9 @@ blockquote {
 	}
     
 }
+blockquote p {
+    font-size: 0.8em !important;
+}
 
 pre {
 	border: 1px solid $color-code-border;
