@@ -26,7 +26,7 @@ author: src/data/team/cindy-spence.yaml
 ---
 > Hold on a sec. Why am I talking about having better digestion in the first place?
 
-### Great question!
+### Great question.
 
 We all know that suffering from digestive problems such as gas, bloating, acid reflux, stomach cramps, diarrhea, constipation, irritable bowel syndrome or inflammatory bowel disease can seriously hinder our daily functioning and make us miserable.
 
