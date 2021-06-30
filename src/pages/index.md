@@ -7,7 +7,7 @@ sections:
     actions:
       - type: action
         label: Contact Cindy Today!
-        url: /pricing
+        url: /contact
         style: primary
     image: /images/lakecitylogo_small.png
     image_alt: Hero section placeholder image
