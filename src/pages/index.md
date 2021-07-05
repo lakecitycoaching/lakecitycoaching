@@ -120,7 +120,7 @@ sections:
           managed with lifestyle changes.
         actions:
           - label: Learn More
-            url: '#'
+            url: /blog/healthy-aging-for-women-over-50
             style: link
             has_icon: false
             icon: arrow-left
