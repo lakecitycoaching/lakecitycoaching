@@ -122,7 +122,7 @@ sections:
           - label: Learn More
             url: /blog/healthy-aging-for-women-over-50
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
