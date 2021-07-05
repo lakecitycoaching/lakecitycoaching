@@ -64,7 +64,7 @@ export default class HeroSection extends React.Component {
                 				<p className="hero__subtitle darken">{_.get(section, 'subtitle', null)}</p>
                 				)}
                 				{_.get(section, 'content', null) && (
-                				<div className="hero__copy ">
+                				<div className="hero__copy">
                 					{markdownify(_.get(section, 'content', null))}
                 				</div>
                 				)}
