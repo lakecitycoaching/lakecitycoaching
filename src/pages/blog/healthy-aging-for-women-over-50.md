@@ -7,7 +7,9 @@ date: '2021-07-05'
 categories:
   - src/data/categories/programs.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  To live a long, active, joyful, healthy life, Chronic Disease must be managed
+  with lifestyle changes.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
