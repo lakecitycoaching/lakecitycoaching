@@ -13,7 +13,7 @@ sections:
     enable_cards: true
     show_recent: false
     show_date: false
-    show_categories: true
+    show_categories: false
     show_author: false
     show_excerpt: true
     show_image: true
