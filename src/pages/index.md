@@ -114,7 +114,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Healthy aging for Women over 50
+      - title: Healthy Aging for Women over 50
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
