@@ -115,17 +115,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Healthy Aging for Women over 50
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          To live a long, active, joyful, healthy life, Chronic Disease must be
+          managed with lifestyle changes.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
