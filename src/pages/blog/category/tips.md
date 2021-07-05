@@ -13,7 +13,7 @@ sections:
     show_recent: false
     category: src/data/categories/tips.yaml
     show_date: false
-    show_categories: true
+    show_categories: false
     show_author: false
     show_excerpt: true
     show_image: true
