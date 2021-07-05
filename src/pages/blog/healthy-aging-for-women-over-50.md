@@ -47,10 +47,10 @@ This is FIXABLE!
 
 ### YES. YOU. CAN!
 
-As an experienced & highly effective Certified Health Coach,
+\<p>As an experienced & highly effective Certified Health Coach,
 I help my clients adopt and sustain pleasurable, healthy new behaviors which become new
 HABITS for life. Our HABITS are the #1 determiners of the quality of our life!.... Not
-heredity, not luck, not a “diagnosis”, not where we live.... \<b>It’s our HABITS.\</b>
+heredity, not luck, not a “diagnosis”, not where we live.... \<b>It’s our HABITS.\</b>\</p>
 
 I’ve been there. I spent years in a wheelchair, and using a walker & a cane. I lived with pain
 and took several prescription pills to try to relieve the symptoms caused by lifestyle
