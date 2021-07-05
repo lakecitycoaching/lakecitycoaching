@@ -61,7 +61,7 @@ sections:
       # &#xA;You will receive private, one-on-one coaching with a program that
       gets lasting results!
     background_image: /images/20170702_171101.jpg
-    background_image_opacity: 12
+    background_image_opacity: 30
     background_image_size: cover
   - type: blog_feed_section
     blog_feed_cols: two
