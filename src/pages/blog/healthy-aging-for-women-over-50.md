@@ -24,8 +24,11 @@ Half of all adult women over 50 in the United States have at least one
 chronic disease, and 25 percent of us have two or more! Additionally, Over half of us are
 overweight. Chronic diseases such as heart disease, diabetes, and hypertension are
 among the most preventable conditions, yet they are the leading cause of disability &
-death in women over 50! To live a long, active, joyful, healthy life, Chronic Disease must be
-managed with lifestyle changes. That doesn’t mean trying to mask and manage symptoms
+death in women over 50! 
+
+### To live a long, active, joyful, healthy life, Chronic Disease must be&#xA;managed with lifestyle changes. 
+
+That doesn’t mean trying to mask and manage symptoms
 of the disease with bottles of prescription pills!
 
 ## The Good News
