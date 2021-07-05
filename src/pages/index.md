@@ -120,7 +120,7 @@ sections:
           managed with lifestyle changes.
         actions: []
         image_alt: Healthy Life
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
