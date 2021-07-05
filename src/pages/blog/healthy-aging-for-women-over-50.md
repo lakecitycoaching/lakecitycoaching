@@ -67,7 +67,7 @@ do the same.
 
 *   No products to buy
 
-So, if you’re sick and tired of feeling sick and tired, I can help!
+> So, if you’re sick and tired of feeling sick and tired, I can help!
 
 Call or email today to
 schedule a complimentary “Fabulous Over 50 Breakthrough Session” with me.
