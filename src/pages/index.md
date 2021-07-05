@@ -119,7 +119,7 @@ sections:
           To live a long, active, joyful, healthy life, Chronic Disease must be
           managed with lifestyle changes.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
