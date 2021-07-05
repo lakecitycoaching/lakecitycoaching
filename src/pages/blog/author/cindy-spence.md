@@ -63,7 +63,7 @@ sections:
     background_image: /images/20170702_171101.jpg
     background_image_opacity: 40
     background_image_size: cover
-    background_image_position: center top
+    background_image_position: left top
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
