@@ -1,7 +1,7 @@
 ---
 title: Healthy Aging for Women over 50
 subtitle: >-
-  To live a long, active, joyful, healthy life, Chronic Disease must bemanaged
+  To live a long, active, joyful, healthy life, Chronic Disease must be managed
   with lifestyle changes.
 date: '2021-07-05'
 categories:
