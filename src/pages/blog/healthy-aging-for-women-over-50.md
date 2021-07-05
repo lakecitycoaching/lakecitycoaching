@@ -47,10 +47,10 @@ This is FIXABLE!
 
 ### YES. YOU. CAN!
 
-\<p>As an experienced & highly effective Certified Health Coach,
+As an experienced & highly effective Certified Health Coach,
 I help my clients adopt and sustain pleasurable, healthy new behaviors which become new
 HABITS for life. Our HABITS are the #1 determiners of the quality of our life!.... Not
-heredity, not luck, not a “diagnosis”, not where we live.... \<b>It’s our HABITS.\</b>\</p>
+heredity, not luck, not a “diagnosis”, not where we live.... **It’s our HABITS.**
 
 I’ve been there. I spent years in a wheelchair, and using a walker & a cane. I lived with pain
 and took several prescription pills to try to relieve the symptoms caused by lifestyle
@@ -75,6 +75,6 @@ do the same.
 > So, if you’re sick and tired of feeling sick and tired, I can help!
 
 Call or email today to
-schedule a complimentary “Fabulous Over 50 Breakthrough Session” with me.
+schedule a complimentary **“Fabulous Over 50 Breakthrough Session”** with me.
 
 ### &#xA;This is YOUR time!
