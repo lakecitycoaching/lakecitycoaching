@@ -4,7 +4,8 @@ subtitle: >-
   To live a long, active, joyful, healthy life, Chronic Disease must bemanaged
   with lifestyle changes.
 date: '2021-07-05'
-categories: []
+categories:
+  - src/data/categories/programs.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
