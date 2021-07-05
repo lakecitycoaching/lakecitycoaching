@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-# The Bad News
+## The Bad News
 
 Half of all adult women over 50 in the United States have at least one
 chronic disease, and 25 percent of us have two or more! Additionally, Over half of us are
@@ -28,8 +28,7 @@ death in women over 50! To live a long, active, joyful, healthy life, Chronic Di
 managed with lifestyle changes. That doesn’t mean trying to mask and manage symptoms
 of the disease with bottles of prescription pills!
 
-
-# The Good News
+## The Good News
 
 This is FIXABLE! If you want to live a longer, happier, more active life,
 you can! YES. YOU. CAN.! As an experienced & highly effective Certified Health Coach,
