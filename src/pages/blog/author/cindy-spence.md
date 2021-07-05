@@ -62,7 +62,7 @@ sections:
       gets lasting results!
     background_image: /images/20170702_171101.jpg
     background_image_opacity: 12
-    background_image_size: contain
+    background_image_size: auto
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
