@@ -33,24 +33,25 @@ of the disease with bottles of prescription pills!
 
 ## The Good News
 
-This is FIXABLE! 
+This is FIXABLE!
 
 If you want to live a longer, happier, more active life,
-you can! YES. YOU. CAN! 
+you can! 
+
+### YES. YOU. CAN!
 
 As an experienced & highly effective Certified Health Coach,
 I help my clients adopt and sustain pleasurable, healthy new behaviors which become new
 HABITS for life. Our HABITS are the #1 determiners of the quality of our life!.... Not
 heredity, not luck, not a “diagnosis”, not where we live.... It’s our HABITS.
 
-
 I’ve been there. I spent years in a wheelchair, and using a walker & a cane. I lived with pain
 and took several prescription pills to try to relieve the symptoms caused by lifestyle
 related chronic diseases. Now, after many years of being free from all of the chronic
 diseases, the excess weight, and all those PILLS, I am helping other women over 50 learn
-do the same. 
+do the same.
 
-Let me help YOU reclaim your health & vitality and look and feel great again!
+# Let me help YOU reclaim your health & vitality and look and feel great again!
 
 ## &#xA;The process is fun and easy!
 
@@ -64,8 +65,7 @@ Let me help YOU reclaim your health & vitality and look and feel great again!
 
 *   No products to buy
 
-
-So, if you’re sick and tired of feeling sick and tired, I can help! 
+So, if you’re sick and tired of feeling sick and tired, I can help!
 
 Call or email today to
 schedule a complimentary “Fabulous Over 50 Breakthrough Session” with me.
