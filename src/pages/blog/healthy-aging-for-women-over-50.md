@@ -21,7 +21,7 @@ template: post
 ## The Bad News
 
 > Half of all adult women over 50 in the United States have at least one
-> chronic disease, and 25 percent of us have two or more! 
+> chronic disease, and 25 percent of us have two or more!
 
 Additionally, Over half of us are
 overweight. Chronic diseases such as heart disease, diabetes, and hypertension are
@@ -37,8 +37,8 @@ of the disease with bottles of prescription pills!
 
 This is FIXABLE!
 
-If you want to live a longer, happier, more active life,
-you can!
+> If you want to live a longer, happier, more active life,
+> you can!
 
 ### YES. YOU. CAN!
 
