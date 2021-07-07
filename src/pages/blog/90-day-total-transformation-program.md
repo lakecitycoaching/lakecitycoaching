@@ -6,7 +6,9 @@ subtitle: >-
 date: '2021-07-07'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Lake City Coaching engages clients in life-long behavioral changes. We use a
+  fun, gentle Habit Change Coaching style to:
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
