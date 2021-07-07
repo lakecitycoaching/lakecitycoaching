@@ -156,8 +156,9 @@ sections:
         type: feature
         image: /images/futuristic-eggplant.jpg
       - title: 90 Day Total Transformation Program
-        content: |
+        content: >
           Lake City Coaching engages clients in life-long behavioral changes.
+          Experience a Total Transformation with life-long results.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
