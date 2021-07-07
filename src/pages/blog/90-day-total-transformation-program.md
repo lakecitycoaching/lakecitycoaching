@@ -2,7 +2,7 @@
 title: 90 Day Total Transformation Program
 subtitle: >-
   Lake City Coaching engages clients in life-long behavioral changes. We use a
-  fun, gentle Habit Change Coaching style to:
+  fun, gentle Habit Change Coaching style
 date: '2021-07-07'
 categories: []
 tags: []
