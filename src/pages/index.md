@@ -192,7 +192,7 @@ sections:
     background_color: primary
     subtitle: Recent Articles from My Blog
     actions:
-      - label: lorem-ipsum
+      - label: 'View '
         url: '#'
         style: link
         has_icon: false
