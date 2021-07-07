@@ -140,7 +140,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions:
           - label: Learn More
-            url: /blog/
+            url: /blog/stess-anxiety-management
             style: link
             has_icon: false
             icon: arrow-left
