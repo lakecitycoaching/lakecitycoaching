@@ -52,8 +52,6 @@ template: post
 
 ### Good News!
 
-#### Here at Lake City Coaching, we take a simple, fun, healing
+> Here at Lake City Coaching, we take a simple, fun, healing approach to Stress & Anxiety Management.
 
-#### approach to Stress & Anxiety Management.
-
-**Learn to:**
+#### Learn to:
