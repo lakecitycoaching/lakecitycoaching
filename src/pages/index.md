@@ -137,10 +137,8 @@ sections:
       - title: Stress and Anxiety Management
         content: >
           Have you been living with chronic Stress & Anxiety? Here at Lake City
-          Coaching, we take a simple, fun, healing
-
-
-          approach to Stress & Anxiety Management.
+          Coaching, we take a simple, fun, healing approach to Stress & Anxiety
+          Management.
         actions:
           - label: Learn More
             url: /blog/stess-anxiety-management
