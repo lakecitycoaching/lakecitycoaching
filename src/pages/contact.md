@@ -62,7 +62,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: select
-        name: Are you interested in one of our programs
+        name: Program Interest
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
