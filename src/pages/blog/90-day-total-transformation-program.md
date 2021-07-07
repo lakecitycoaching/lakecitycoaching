@@ -21,6 +21,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/change-671374_1920.jpg
+image: /images/change-671374_1920.jpg
 ---
 ### We use a fun, gentle Habit Change Coaching style to:
 
