@@ -139,7 +139,7 @@ sections:
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
