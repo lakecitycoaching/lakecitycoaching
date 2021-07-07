@@ -54,13 +54,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: checkbox
-        name: opt-out
-        label: Remove me from mailing list
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
       - input_type: select
         name: program
         label: Program Interest
@@ -71,6 +64,13 @@ sections:
           - Healthy over 50
           - All Programs
           - None
+        is_required: false
+        type: form_field
+      - input_type: checkbox
+        name: opt-out
+        label: Remove me from mailing list
+        default_value: lorem-ipsum
+        options: []
         is_required: false
         type: form_field
     submit_label: Submit
