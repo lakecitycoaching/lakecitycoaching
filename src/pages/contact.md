@@ -70,7 +70,7 @@ sections:
           - Stress and Anxiety Management
           - Healthy over 50
           - All Programs
-          - lorem-ipsum
+          - None
         is_required: false
         type: form_field
     submit_label: Submit
