@@ -63,7 +63,7 @@ sections:
         type: form_field
       - input_type: select
         name: Program Interest
-        label: lorem-ipsum
+        label: Program Interest
         default_value: lorem-ipsum
         options: []
         is_required: false
