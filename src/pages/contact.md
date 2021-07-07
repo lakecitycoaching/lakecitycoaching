@@ -69,6 +69,7 @@ sections:
           - 90 Day Total Transformation
           - Stress and Anxiety Management
           - Healthy over 50
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Submit
