@@ -156,9 +156,8 @@ sections:
         type: feature
         image: /images/futuristic-eggplant.jpg
       - title: 90 Day Total Transformation Program
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: |
+          Lake City Coaching engages clients in life-long behavioral changes.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
