@@ -17,6 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/stress1.jpg
 ---
 # Have you been living with chronic Stress and Anxiety?
 
