@@ -136,8 +136,11 @@ sections:
         image: /images/healthy-life-1.jpg
       - title: Stress and Anxiety Management
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Have you been living with chronic Stress & Anxiety? Here at Lake City
+          Coaching, we take a simple, fun, healing
+
+
+          approach to Stress & Anxiety Management.
         actions:
           - label: Learn More
             url: /blog/stess-anxiety-management
