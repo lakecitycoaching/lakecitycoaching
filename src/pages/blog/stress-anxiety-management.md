@@ -49,3 +49,11 @@ template: post
     fat and build muscle.
 *   **Increase in insulin resistance:** Chronic low-level stress may cause target cells to become
     unresponsive to insulin—a factor in diabetes, weight gain, heart disease and aging.
+
+### Good News!
+
+#### Here at Lake City Coaching, we take a simple, fun, healing
+
+#### approach to Stress & Anxiety Management.
+
+**Learn to:**
