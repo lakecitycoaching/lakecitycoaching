@@ -1,5 +1,5 @@
 ---
-title: Stress Anxiety Management
+title: Stress and Anxiety Management
 subtitle: >-
   Here at Lake City Coaching, we take a simple, fun, healing  approach to Stress
   and Anxiety Management.
