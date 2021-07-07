@@ -194,7 +194,7 @@ sections:
     actions:
       - label: All Posts
         url: /blog
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
