@@ -193,7 +193,7 @@ sections:
     subtitle: Recent Articles from My Blog
     actions:
       - label: All Posts
-        url: /
+        url: /blog
         style: link
         has_icon: false
         icon: arrow-left
