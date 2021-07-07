@@ -159,7 +159,16 @@ sections:
         content: >
           Lake City Coaching engages clients in life-long behavioral changes.
           Experience a Total Transformation with life-long results.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
