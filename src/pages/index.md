@@ -161,7 +161,7 @@ sections:
           Experience a Total Transformation with life-long results.
         actions:
           - label: Learn More
-            url: '#'
+            url: /blog/
             style: link
             has_icon: false
             icon: arrow-left
