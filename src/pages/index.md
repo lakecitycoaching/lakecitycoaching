@@ -167,6 +167,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/change-671374_1920.jpg
     feature_padding_vert: large
     align: center
     background_color: none
