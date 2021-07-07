@@ -8,7 +8,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Photo of woman biting pencil
-image_alt: lorem-ipsum
+image_alt: Photo of woman biting pencil
 image_position: top
 seo:
   title: ''
