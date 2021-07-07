@@ -174,51 +174,6 @@ sections:
     attachment: fixed
     background_image: /images/Screenshot 2021-06-28 11.26.03 AM.png
     background_image_opacity: 12
-  - type: grid_section
-    title: How it works
-    grid_items:
-      - type: grid_item
-        title: What to Do
-        title_align: left
-        content_align: left
-        image: images/icon-1.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        title: What not to do
-        title_align: left
-        content_align: left
-        image: images/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        title: Activity streak
-        title_align: left
-        content_align: left
-        image: images/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        title: Your Progress
-        title_align: left
-        content_align: left
-        image: images/icon-4.svg
-        image_alt: Section item 4 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: two
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    enable_cards: true
-    align: center
-    background_color: none
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
