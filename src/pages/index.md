@@ -155,7 +155,7 @@ sections:
         align: left
         type: feature
         image: /images/futuristic-eggplant.jpg
-      - title: lorem-ipsum
+      - title: 90 Day Total Transformation Program
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
