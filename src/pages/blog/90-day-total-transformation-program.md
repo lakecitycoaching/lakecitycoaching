@@ -39,8 +39,17 @@ template: post
 *   Create a lifestyle that supports your new body
 *   Realize when you’re about to self-sabotage and stop it before it happens
 
-> Clients love the results they get from the 90 Day Total Transformation Program! 
+> Clients love the results they get from the 90 Day Total Transformation Program!
 
-Although we do offer longer term programs, we have found that, especially for new clients, this can be a popular choice. 
+Although we do offer longer term programs, we have found that, especially for new clients, this can be a popular choice.
 
 ### 90 days is brief enough to commit to easily & long enough to get amazing results through adopting&#xA;new behaviors that are truly life changing.
+
+If you are ready to experience a Total Transformation with life-long results, contact Cindy today to schedule a complimentary Total Transformation Breakthrough Session.
+
+You will leave this 50 minute telephone session with a clear understanding of
+what your next step is. 
+
+> Hurry! 
+
+#### This complimentary session is only available as&#xA;long as there is space on my calendar.
