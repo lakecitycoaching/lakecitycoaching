@@ -191,6 +191,16 @@ sections:
     has_border: false
     background_color: primary
     subtitle: Recent Articles from My Blog
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: cta_section
     title: >-
       Are you Sick and Tired of being Sick & Tired? Done with the “Diet roller
