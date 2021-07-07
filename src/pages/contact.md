@@ -64,7 +64,7 @@ sections:
       - input_type: select
         name: program
         label: Program Interest
-        default_value: lorem-ipsum
+        default_value: None
         options:
           - 90 Day Total Transformation
           - Stress and Anxiety Management
