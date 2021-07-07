@@ -67,7 +67,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - 90 Day Total Transformation
-          - 'Stress '
+          - 'Stress and '
         is_required: false
         type: form_field
     submit_label: Submit
