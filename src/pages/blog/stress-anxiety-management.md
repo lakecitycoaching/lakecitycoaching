@@ -1,5 +1,5 @@
 ---
-title: Stress & Anxiety Management
+title: Stress and Anxiety Management
 subtitle: lorem-ipsum
 date: '2021-07-07'
 categories: []
