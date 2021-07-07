@@ -134,7 +134,23 @@ sections:
         align: left
         type: feature
         image: /images/healthy-life-1.jpg
-      - title: lorem-ipsum
+      - title: >-
+          Identify and release your stressors to experience peace  Make
+          yourself a priority (even with your busy schedule!)  Automatically
+          choose behaviors that calm and refresh  Use Rest &amp; Digest meal
+          secrets to avoid bloating &amp; indigestion  Release meal related
+          stress and anxiety to burn more calories  Understand how stress
+          creates belly fat &amp; how to reverse it  Practice free, enjoyable,
+          “anytime” ways to get rid of stress  Realize that you need and
+          deserve joy, relaxation &amp; fun  Put your body into Fat Burning
+          Mode without dieting  Calm chronic anxiety related shallow breathing
+           Quiet the “chatter” in your head that keeps you awake  Focus &amp;
+          make better decisions in the absence of stress  Take the time you
+          need complete a task without feeling rushed  Respect yourself enough
+          to prioritize your self-care  Say NO to the things that are keeping
+          you from your YES  Letting Go is as useful as Holding On once was 
+          Honor your calendar and your time  Walk purposefully in the direction
+          of your goals
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
