@@ -7,7 +7,7 @@ date: '2021-07-07'
 categories: []
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: Stress and Anxiety Pho
+thumb_image_alt: Photo of woman biting pencil
 image_alt: lorem-ipsum
 image_position: top
 seo:
