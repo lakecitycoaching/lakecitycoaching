@@ -65,7 +65,8 @@ sections:
         name: program
         label: Program Interest
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Submit
