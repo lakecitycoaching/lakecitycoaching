@@ -143,7 +143,7 @@ sections:
             url: /blog/stess-anxiety-management
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
