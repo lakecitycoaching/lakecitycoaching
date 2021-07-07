@@ -156,7 +156,7 @@ sections:
         type: feature
         image: /images/futuristic-eggplant.jpg
       - title: 90 Day Total Transformation Program
-        subtitle: lorem-ipsum
+        subtitle: Lake City Coaching engages clients in life-long behavioral changes.
         content: >-
           ## Lorem ipsum
 
