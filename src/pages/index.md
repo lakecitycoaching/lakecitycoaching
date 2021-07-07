@@ -192,7 +192,7 @@ sections:
     background_color: primary
     subtitle: Recent Articles from My Blog
     actions:
-      - label: View all Posts
+      - label: All Posts
         url: '#'
         style: link
         has_icon: false
