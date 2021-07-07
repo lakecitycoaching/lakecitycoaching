@@ -17,7 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/stress1.jpg
+thumb_image: /images/woman-biting-pencil-1280.jpg
 image: /images/futuristic-eggplant.jpg
 ---
 # Have you been living with chronic Stress and Anxiety?
