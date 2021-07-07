@@ -68,7 +68,7 @@ sections:
         options:
           - 90 Day Total Transformation
           - Stress and Anxiety Management
-          - '50'
+          - null
         is_required: false
         type: form_field
     submit_label: Submit
