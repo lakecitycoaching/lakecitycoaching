@@ -135,17 +135,9 @@ sections:
         type: feature
         image: /images/healthy-life-1.jpg
       - title: Stress and Anxiety Management
-        content: >-
-          ## Lorem ipsum
-
-
+        content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
