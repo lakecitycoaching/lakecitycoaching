@@ -7,7 +7,9 @@ date: '2021-07-07'
 categories:
   - src/data/categories/programs.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Here at Lake City Coaching, we take a simple, fun, healing  approach to Stress
+  and Anxiety Management.
 thumb_image_alt: Photo of woman biting pencil
 image_alt: Photo of woman biting pencil
 image_position: top
