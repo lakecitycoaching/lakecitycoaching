@@ -9,7 +9,7 @@ sections:
       your inquiry will be responded to promptly.
 
 
-      Our Mailing address is:
+      #### Our Mailing address is:
 
 
       P.O. BOX 1622
@@ -17,7 +17,7 @@ sections:
       Hayden, ID 83835
 
 
-      Phone:
+      #### Phone:
 
 
       ### (208) 640-9175
