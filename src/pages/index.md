@@ -134,7 +134,7 @@ sections:
         align: left
         type: feature
         image: /images/healthy-life-1.jpg
-      - title: lorem-ipsum
+      - title: Stress and Anxiety Management
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
