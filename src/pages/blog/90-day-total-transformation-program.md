@@ -21,9 +21,26 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+### We use a fun, gentle Habit Change Coaching style to:
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   Identify your health goals
+*   Help you bring your goals into crystal clear focus
+*   Understand what has kept you from reaching your goals in the past
+*   Create a path to your goal that makes success inevitable (not just a dream)
+*   Laser Focus on what is most important to you, and why
+*   Clear the stumbling blocks from the path to your success
+*   Redirect your actions into habits that align with your values & priorities
+*   Support and guide you to achieve goals that you never thought were possible
+*   Discover which foods & activities are right for your unique body type
+*   Learn how to instinctively know when, how and what to eat
+*   Learn how to show up for yourself in ways that you never have before
+*   Bridge the gap between “knowing” something and “doing” it
+*   Support you through healing and transformation without judgement
+*   Create a lifestyle that supports your new body
+*   Realize when you’re about to self-sabotage and stop it before it happens
 
-- Lorem ipsum
-- dolor sit amet
+> Clients love the results they get from the 90 Day Total Transformation Program! 
+
+Although we do offer longer term programs, we have found that, especially for new clients, this can be a popular choice. 
+
+### 90 days is brief enough to commit to easily & long enough to get amazing results through adopting&#xA;new behaviors that are truly life changing.
