@@ -163,7 +163,7 @@ sections:
           - label: Learn More
             url: /blog/90-day-total-transformation-program
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
