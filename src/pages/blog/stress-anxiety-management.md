@@ -55,3 +55,39 @@ template: post
 > Here at Lake City Coaching, we take a simple, fun, healing approach to Stress & Anxiety Management.
 
 #### Learn to:
+
+*   Identify and release your stressors to experience peace
+
+*   Make yourself a priority (even with your busy schedule!)
+
+*   Automatically choose behaviors that calm and refresh
+
+*   Use Rest & Digest meal secrets to avoid bloating & indigestion
+
+*   Release meal related stress and anxiety to burn more calories
+
+*   Understand how stress creates belly fat & how to reverse it
+
+*   Practice free, enjoyable, “anytime” ways to get rid of stress
+
+*   Realize that you need and deserve joy, relaxation & fun
+
+*   Put your body into Fat Burning Mode without dieting
+
+*   Calm chronic anxiety related shallow breathing
+
+*   Quiet the “chatter” in your head that keeps you awake
+
+*   Focus & make better decisions in the absence of stress
+
+*   Take the time you need complete a task without feeling rushed
+
+*   Respect yourself enough to prioritize your self-care
+
+*   Say NO to the things that are keeping you from your YES
+
+*   Letting Go is as useful as Holding On once was
+
+*   Honor your calendar and your time
+
+*   Walk purposefully in the direction of your goals
