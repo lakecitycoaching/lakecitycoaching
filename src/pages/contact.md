@@ -9,7 +9,7 @@ sections:
       your inquiry will be responded to promptly.
 
 
-      #### Our Mailing address is:
+      #### Mail:
 
 
       P.O. BOX 1622
