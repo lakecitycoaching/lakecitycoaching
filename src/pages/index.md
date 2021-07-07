@@ -191,6 +191,7 @@ sections:
     has_border: false
     background_color: primary
     subtitle: Recent Articles from My Blog
+    category: src/data/categories/tips.yaml
   - type: cta_section
     title: >-
       Are you Sick and Tired of being Sick & Tired? Done with the “Diet roller
