@@ -61,7 +61,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: select
+      - input_type: checkbox
         name: program
         label: Program Interest
         default_value: lorem-ipsum
