@@ -1,6 +1,8 @@
 ---
 title: Stress and Anxiety Management
-subtitle: lorem-ipsum
+subtitle: >-
+  Here at Lake City Coaching, we take a simple, fun, healing  approach to Stress
+  &amp; Anxiety Management.
 date: '2021-07-07'
 categories: []
 tags: []
