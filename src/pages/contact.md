@@ -62,7 +62,7 @@ sections:
           - 90 Day Total Transformation
           - Stress and Anxiety Management
           - Healthy Aging for Women over 50
-          - All Programs
+          - Weight Loss Energy Reset
         is_required: false
         type: form_field
       - input_type: checkbox
