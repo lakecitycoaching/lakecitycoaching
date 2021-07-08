@@ -61,10 +61,14 @@ sections:
         title: >-
           I can’t workout or go to the gym. Will that keep me from being
           successful?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          No, that will not affect your success at Like City Coaching. Our
+          program meets you where you are right now. Progressing through the
+          program, you will naturally have more energy and less pain. As you
+          feel better, you will probably want to get more active, and we support
+          & encourage that. Your physical activity should be enjoyable and
+          do-able. Something you look forward to. At LCC, we have no specific
+          exercise requirements.
       - type: grid_item
         title: Viverra nam libero justo laoreet sit?
         content: >-
