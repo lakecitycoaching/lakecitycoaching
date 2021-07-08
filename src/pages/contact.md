@@ -61,7 +61,7 @@ sections:
         options:
           - 90 Day Total Transformation
           - Stress and Anxiety Management
-          - Healthy over 50
+          - Healthy Aging for Women over 50
           - All Programs
         is_required: false
         type: form_field
