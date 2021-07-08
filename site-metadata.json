@@ -93,7 +93,7 @@
             },
             {
                 "label": "Programs",
-                "url": "#",
+                "url": "/programs",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
