@@ -141,11 +141,22 @@ sections:
           *   Release the “energy drains” in your life and feel more refreshed
       - type: grid_item
         title: 'Do I need to buy special food, supplements, memberships, etc?'
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          No. There is nothing to purchase. We don’t sell anything.
+
+
+
+          > I know….weird, huh?
+
+
+          No special food, supplements, memberships, shots, no magic pills or
+          “belly buster” drinks…..no “fat blasters”….nothing to buy! 
+
+
+          Our magic happens through pleasurable, easy, evidence- based habit
+          change. We engage our clients in the joy of becoming the highest
+          version of themselves. We know that our HABITS (not supplements) are
+          the #1 determiners of the quality of our life.
       - type: grid_item
         title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
