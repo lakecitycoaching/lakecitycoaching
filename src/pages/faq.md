@@ -10,7 +10,9 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Lorem ipsum dolor sit amet consectetur?
+        title: >-
+          I’ve tried every diet and weight loss program out there. Nothing has
+          workedlong term. How are you different?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
