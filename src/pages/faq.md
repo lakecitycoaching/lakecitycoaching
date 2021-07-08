@@ -70,7 +70,9 @@ sections:
           do-able. Something you look forward to. At LCC, we have no specific
           exercise requirements.
       - type: grid_item
-        title: Viverra nam libero justo laoreet sit?
+        title: >-
+          What are some of the things I can expect as a client of Lake City
+          Coaching?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
