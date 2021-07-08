@@ -13,10 +13,52 @@ sections:
         title: >-
           I’ve tried every diet and weight loss program out there. Nothing has
           workedlong term. How are you different?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Your Certified Health Coach is an experienced dietician. She has also
+          maintained a substantial weight loss for many years. The secret to
+          maintaining long term success is not found in a diet or restrictive
+          food plan. Through her years as a dietitian, studying human behavior,
+          and as a highly effective Certified Health Coach, she embraces these
+          truths in her practice:
+
+
+
+          *   Knowledge DOES NOT equal habit change
+
+
+          *   Nobody wants to be told what to eat
+
+
+          *   Diets DO NOT WORK long term
+
+
+          *   97% of people who lose weight dieting, regain it within 6 months
+
+
+          *   You can’t “out-exercise” poor eating habits
+
+
+          *   It isn’t about just losing the weight… it’s about creating a life
+          that you
+              don’t have to escape from.
+
+          *   Habits are driven by PLEASURE. So, the journey to better health
+          must be
+              pleasurable & fun, or it won’t stick!
+
+
+          Here at Lake City Coaching, we understand your frustrations with the
+          diet
+
+          roller-coaster. 
+
+
+          ### We have a better way!
+
+
+          We use a fun, pleasant approach to achieve
+
+          long term habit change.
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
         content: >-
