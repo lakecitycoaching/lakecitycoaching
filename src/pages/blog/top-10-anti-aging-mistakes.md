@@ -4,7 +4,8 @@ subtitle: >-
   Do you look & feel OLDER than you want to? These are the Top 10 Anti-Aging
   Mistakes Women make.
 date: '2021-06-27'
-categories: []
+categories:
+  - src/data/categories/tips.yaml
 tags: []
 excerpt: >-
   Do you look & feel OLDER than you want to? These are the Top 10 Anti-Aging
