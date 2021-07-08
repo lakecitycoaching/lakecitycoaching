@@ -145,12 +145,11 @@ sections:
           No. There is nothing to purchase. We don’t sell anything.
 
 
-
-          > I know….weird, huh?
+          > I know...Weird, huh?
 
 
           No special food, supplements, memberships, shots, no magic pills or
-          “belly buster” drinks…..no “fat blasters”….nothing to buy! 
+          “belly buster” drinks…..no “fat blasters”….nothing to buy!
 
 
           Our magic happens through pleasurable, easy, evidence- based habit
