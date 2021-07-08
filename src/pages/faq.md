@@ -14,13 +14,12 @@ sections:
           I’ve tried every diet and weight loss program out there. Nothing has
           workedlong term. How are you different?
         content: >
-          Your Certified Health Coach is an experienced dietician. She has also
+          Your Certified Health Coach is an experienced dietitian. She has also
           maintained a substantial weight loss for many years. The secret to
           maintaining long term success is not found in a diet or restrictive
           food plan. Through her years as a dietitian, studying human behavior,
           and as a highly effective Certified Health Coach, she embraces these
           truths in her practice:
-
 
 
           *   Knowledge DOES NOT equal habit change
@@ -46,14 +45,13 @@ sections:
           must be
               pleasurable & fun, or it won’t stick!
 
-
           Here at Lake City Coaching, we understand your frustrations with the
           diet
 
-          roller-coaster. 
+          roller-coaster.
 
 
-          ### We have a better way!
+          > We have a better way!
 
 
           We use a fun, pleasant approach to achieve
