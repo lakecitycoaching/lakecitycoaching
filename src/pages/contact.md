@@ -77,7 +77,7 @@ sections:
         name: terms
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         label: 'By using this form, you agree to the terms of this site. '
     submit_label: Submit
