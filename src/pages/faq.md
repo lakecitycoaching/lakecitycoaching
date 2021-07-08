@@ -158,10 +158,45 @@ sections:
           the #1 determiners of the quality of our life.
       - type: grid_item
         title: "Help! It seems like no matter how healthy I eat, how much I diet, I just can’t\_get the excess weight off. Especially the belly fat. Can you help me?"
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          Yes! Lake City Coaching can help you. I’ve been there. Skipping meals,
+          eliminating entire food groups, working out until I drop, eating salad
+          while others are having a “real” meal. Experiencing low energy most of
+          the time and just generally feeling “tired of being tired!”
+
+
+
+          ### Here’s the good news: 
+
+
+          ## It’s likely not your fault. 
+
+
+          There are many factors that contribute to weight gain (especially
+          stubborn belly fat) that most people are
+
+          unaware of. Many of these contributing factors actually happen during
+          the “white knuckling” periods of self- deprivation. When we feel as if
+          we have been attempting to “push string uphill”….. when we have tried
+          our best, and worked so hard and it just doesn’t happen for us. Then,
+          we can’t stand it anymore, fall off the wagon, gain a few more pounds
+          and the toxic cycle begins all over again.
+
+
+
+          If that scenario sounds familiar to you, we want to welcome you, and
+          encourage you to stop doing the same old thing, and expecting
+          different results. The truth is, if “different” results were going to
+          happen, they would have happened a long time ago, right?
+
+
+
+          We use fresh, enjoyable techniques that get results like nothing else!
+
+          With fun, easy, evidence- based interventions and proven clinical
+          strategies we
+
+          engage our clients in life-long habit change. And, we make it fun!
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
