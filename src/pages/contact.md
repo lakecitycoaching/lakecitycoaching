@@ -63,7 +63,6 @@ sections:
           - Stress and Anxiety Management
           - Healthy over 50
           - All Programs
-          - None
         is_required: false
         type: form_field
       - input_type: checkbox
