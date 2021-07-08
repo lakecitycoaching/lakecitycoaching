@@ -63,7 +63,7 @@ sections:
           - Stress and Anxiety Management
           - Healthy Aging for Women over 50
           - Weight Loss Energy Reset
-          - lorem-ipsum
+          - 'Send me '
         is_required: false
         type: form_field
       - input_type: checkbox
