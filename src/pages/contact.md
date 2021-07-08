@@ -75,7 +75,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: terms
-        label: Do you agree with the terms of this website
+        label: Do you agree with the terms of this website?
         default_value: lorem-ipsum
         options: []
         is_required: false
