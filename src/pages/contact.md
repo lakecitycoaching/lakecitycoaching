@@ -63,7 +63,7 @@ sections:
           - Stress and Anxiety Management
           - Healthy Aging for Women over 50
           - Weight Loss Energy Reset
-          - I'm interested in all of the Programs
+          - I'm interested in all of the Programs!
         is_required: false
         type: form_field
       - input_type: checkbox
