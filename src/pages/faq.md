@@ -157,7 +157,7 @@ sections:
           version of themselves. We know that our HABITS (not supplements) are
           the #1 determiners of the quality of our life.
       - type: grid_item
-        title: Porta nibh venenatis cras sed felis eget velit aliquet?
+        title: "Help! It seems like no matter how healthy I eat, how much I diet, I just can’t\_get the excess weight off. Especially the belly fat. Can you help me?"
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
