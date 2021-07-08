@@ -140,7 +140,7 @@ sections:
 
           *   Release the “energy drains” in your life and feel more refreshed
       - type: grid_item
-        title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+        title: 'Do I need to buy special food, supplements, memberships, etc?'
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
