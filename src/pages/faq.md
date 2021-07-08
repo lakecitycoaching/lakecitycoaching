@@ -73,12 +73,72 @@ sections:
         title: >-
           What are some of the things I can expect as a client of Lake City
           Coaching?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          You can expect to:
+
+
+          *   Enjoy weekly one-on-one private sessions with your Health Coach
+
+
+          *   Be cared for, respected, and listened to without judgment
+
+
+          *   Learn how to show up for yourself and make YOU a priority
+
+
+          *   Have your healthy body, instead of just wanting it
+
+
+          *   Become crystal clear about the path to your success
+
+
+          *   Discover which foods and activities increase your energy
+
+
+          *   Recognize and STOP self-sabotage before it derails you
+
+
+          *   Find fun, healthy ways to cope with stress and relax
+
+
+          *   Joyfully release what has kept you from having the life you want
+
+
+          *   Expand your capacity for goodness in your life
+
+
+          *   Understand that self-care is not a luxury
+
+
+          *   Make peace with food & enjoy it! ….. It’s not the enemy
+
+
+          *   Tap into your Personal Power and stop giving it away
+
+
+          *   Fearlessly plan your future without reservation
+
+
+          *   Live your life unapologetically
+
+
+          *   Start checking off those “bucket list” items!
+
+
+          *   Build trust in your ability to take care of yourself
+
+
+          *   Understand how avoid the stress that contributes to weight gain
+
+
+          *   Discover how to really KNOW when it’s hunger and not something
+          else
+
+
+          *   Intuitively know when you are full and how to avoid overeating
+
+
+          *   Release the “energy drains” in your life and feel more refreshed
       - type: grid_item
         title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
