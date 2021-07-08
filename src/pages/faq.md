@@ -145,7 +145,7 @@ sections:
           No. There is nothing to purchase. We don’t sell anything.
 
 
-          > I know...Weird, huh?
+          > Weird, huh?
 
 
           No special food, supplements, memberships, shots, no magic pills or
