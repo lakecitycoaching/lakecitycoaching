@@ -58,7 +58,9 @@ sections:
 
           long term habit change.
       - type: grid_item
-        title: Sagittis vitae et leo duis ut diam?
+        title: >-
+          I can’t workout or go to the gym. Will that keep me from being
+          successful?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
