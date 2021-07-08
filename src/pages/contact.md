@@ -79,7 +79,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        label: 'By using this form, you agree to the terms of this site as set forth'
+        label: 'By using this form, you agree to the terms of this site. '
     submit_label: Submit
     align_vert: top
     padding_top: medium
