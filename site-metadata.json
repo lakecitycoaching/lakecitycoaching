@@ -141,16 +141,6 @@
                 "new_window": true,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
         "content": "&copy; Lake City Coaching. All rights reserved. This site was created by <a href=\"mailto:marcusjamesreed@gmail.com\">Marcus Reed</a>"
