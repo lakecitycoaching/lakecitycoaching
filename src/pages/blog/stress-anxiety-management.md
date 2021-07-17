@@ -21,7 +21,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/stress-anxiety.jpg
-image: /images/fabulous-sunflower.jpg
+image: /images/stress-anxiety.jpg
 ---
 ## Have you been living with chronic Stress and Anxiety?
 
