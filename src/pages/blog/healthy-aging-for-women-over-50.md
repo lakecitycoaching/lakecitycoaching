@@ -22,7 +22,7 @@ seo:
 template: post
 author: src/data/team/cindy-spence.yaml
 thumb_image: /images/charming-pluto.jpg
-image: /images/charming-pluto.jpg
+image: /images/healthy-aging.jpg
 ---
 ## The Bad News
 
