@@ -20,7 +20,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/change-671374_1920.jpg
+thumb_image: /images/ninetyday.jpg
 image: /images/ninetyday.jpg
 ---
 ### We use a fun, gentle Habit Change Coaching style to:
