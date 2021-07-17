@@ -154,7 +154,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/futuristic-eggplant.jpg
+        image: /images/stress-anxiety.jpg
       - title: 90 Day Total Transformation Program
         content: >
           Lake City Coaching engages clients in life-long behavioral changes.
