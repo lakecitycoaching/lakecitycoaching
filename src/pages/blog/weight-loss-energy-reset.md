@@ -26,7 +26,7 @@ seo:
   type: stackbit_page_meta
 template: post
 author: src/data/team/cindy-spence.yaml
-thumb_image: /images/belly-2473_640.jpg
+thumb_image: /images/weight-loss-energy.jpg
 image: /images/weight-loss-energy.jpg
 ---
 > We engage to uncover your greatest desires, and gain a clear understanding of what matters most. Then, we embark upon a fun, easy, evidenced based course to get you there. The path along the way becomes crystal clear and the steps toward the life you want come into laser focus, and then….your success becomes inevitable.
