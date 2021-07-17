@@ -133,7 +133,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/healthy-life-1.jpg
+        image: /images/healthy-aging.jpg
       - title: Stress and Anxiety Management
         content: >
           Have you been living with chronic Stress & Anxiety? Here at Lake City
