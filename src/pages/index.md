@@ -110,7 +110,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/charming-chili.jpg
+        image: /images/weight-loss-energy.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
