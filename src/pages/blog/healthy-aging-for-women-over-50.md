@@ -21,7 +21,7 @@ seo:
   type: stackbit_page_meta
 template: post
 author: src/data/team/cindy-spence.yaml
-thumb_image: /images/healthy-life-1.jpg
+thumb_image: /images/healthy-aging.jpg
 image: /images/healthy-life-1.jpg
 ---
 ## The Bad News
