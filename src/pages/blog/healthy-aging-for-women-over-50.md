@@ -22,7 +22,7 @@ seo:
 template: post
 author: src/data/team/cindy-spence.yaml
 thumb_image: /images/healthy-aging.jpg
-image: /images/healthy-life-1.jpg
+image: /images/healthy-aging.jpg
 ---
 ## The Bad News
 
