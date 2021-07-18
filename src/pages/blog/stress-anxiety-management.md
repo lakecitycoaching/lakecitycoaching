@@ -11,7 +11,7 @@ excerpt: >-
   Here at Lake City Coaching, we take a simple, fun, healing  approach to Stress
   and Anxiety Management.
 thumb_image_alt: Stress and Anxiety Management
-image_alt: Photo of woman biting pencil
+image_alt: Stress and Anxiety Management
 image_position: top
 seo:
   title: ''
