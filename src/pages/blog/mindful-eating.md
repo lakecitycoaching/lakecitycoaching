@@ -11,7 +11,7 @@ excerpt: >-
   Cindy is here to help you learn what mindful eating is all about and how it
   can help you LOSE WEIGHT and KEEP IT OFF!
 thumb_image_alt: Mindful Eating
-image_alt: lorem-ipsum
+image_alt: Mindful Eating
 image_position: top
 seo:
   title: ''
