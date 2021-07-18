@@ -21,7 +21,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/IMG_5664.jpeg
-image: /images/IMG_5664.jpeg
+image: /images/mindful_eating.jpeg
 author: src/data/team/cindy-spence.yaml
 ---
 # Do you even remember what you ate?
