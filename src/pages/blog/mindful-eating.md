@@ -20,7 +20,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/IMG_5664.jpeg
+thumb_image: /images/mindful_eating.jpeg
 image: /images/mindful_eating.jpeg
 author: src/data/team/cindy-spence.yaml
 ---
