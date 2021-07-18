@@ -50,7 +50,7 @@ export default class BlogPostFeedItem extends React.Component {
                 							<span className="item__meta-sep"> &middot; </span>
                 						)}
                 					</React.Fragment>)}
-                					{_.get(blog_feed_section, 'show_date', null) && (
+                					{/*_.get(blog_feed_section, 'show_date', null) && (
                 						<span className="item__date"><time dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
                 					)}
                 				</div>
