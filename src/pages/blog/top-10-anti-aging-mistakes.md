@@ -11,7 +11,7 @@ excerpt: >-
   Do you look & feel OLDER than you want to? These are the Top 10 Anti-Aging
   Mistakes Women make.
 thumb_image_alt: Top 10 Anti-Aging Mistakes
-image_alt: lorem-ipsum
+image_alt: Top 10 Anti-Aging Mistakes
 image_position: top
 seo:
   title: ''
