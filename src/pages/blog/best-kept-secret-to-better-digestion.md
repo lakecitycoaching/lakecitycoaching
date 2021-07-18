@@ -8,7 +8,7 @@ excerpt: >-
   The best way to ensure that we are helping make it easy for our bodies to
   digest our food is...
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: Best Kept Secrets to Better Digestion Photo
 image_position: top
 seo:
   title: Best Kept Secret for Better Digestion
