@@ -13,7 +13,7 @@ excerpt: >-
   one-on-one sessions with your coach to help you clearly identify, embrace and
   laser focus on what you really want.
 thumb_image_alt: Weight Loss Energy Reset Program
-image_alt: lorem-ipsum
+image_alt: Weight Loss Energy Reset Program
 image_position: top
 seo:
   title: Weight Loss Energy Reset Program
