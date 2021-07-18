@@ -11,7 +11,7 @@ excerpt: >-
   Lake City Coaching engages clients in life-long behavioral changes. We use a
   fun, gentle Habit Change Coaching style to:
 thumb_image_alt: 90 day total transformation
-image_alt: lorem-ipsum
+image_alt: 90 day total transformation
 image_position: top
 seo:
   title: ''
