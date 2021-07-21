@@ -45,11 +45,11 @@ Although we do offer longer term programs, we have found that, especially for ne
 
 ### 90 days is brief enough to commit to easily & long enough to get amazing results through adopting&#xA;new behaviors that are truly life changing.
 
-If you are ready to experience a Total Transformation with life-long results, contact Cindy today to schedule a complimentary Total Transformation Breakthrough Session.
+If you are ready to experience a Total Transformation with everlasting results, contact Cindy today to schedule a complimentary Total Transformation Breakthrough Session.
 
 You will leave this 50 minute telephone session with a clear understanding of
-what your next step is. 
+what your next step is.
 
-> Hurry! 
+> Hurry!
 
 #### This complimentary session is only available as&#xA;long as there is space on my calendar.
