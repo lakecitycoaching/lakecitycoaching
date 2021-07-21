@@ -12,7 +12,7 @@ sections:
       - type: grid_item
         title: >-
           I’ve tried every diet and weight loss program out there. Nothing has
-          workedlong term. How are you different?
+          worked long term. How are you different?
         content: >
           Your Certified Health Coach is an experienced dietitian. She has also
           maintained a substantial weight loss for many years. The secret to
