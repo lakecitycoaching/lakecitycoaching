@@ -30,6 +30,8 @@ Vitamin D is vital for our gut, bones and blood. So go out in the sun and enjoy,
 
 # Ready to learn more anti-aging mistakes to avoid?
 
+[Check out Mistake #3](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-3)
+
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
 *   Look and feel younger without over- spending on pricey products
@@ -65,3 +67,7 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 #### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
+
+
+
+[Check out Mistake #3](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-3)
