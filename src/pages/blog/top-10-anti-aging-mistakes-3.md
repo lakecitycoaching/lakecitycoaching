@@ -34,9 +34,9 @@ If the thought of eating sardines out of the can turns your stomach, the next be
 
 Dr Hyman recommends taking 1000 mg of fish oil twice daily with a 300/200 ratio of EPA/DHA. These are both long-chain Omega-3fatty acids which are found in most fish and shellfish and in algae and seaweed. \*Fish are not able to produce EPA & DHA. They get it from eating algae & seaweed.
 
-
-
 # Ready to learn more anti-aging mistakes to avoid?
+
+[Check out Mistake #4](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-4)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
@@ -73,3 +73,7 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 #### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
+
+
+
+[Check out Mistake #4](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-4)
