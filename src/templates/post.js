@@ -8,7 +8,6 @@ import {classNames, withPrefix, htmlToReact} from '../utils';
 import BlogPostCategories from '../components/BlogPostCategories';
 import BlogPostAuthor from '../components/BlogPostAuthor';
 import BlogPostTags from '../components/BlogPostTags';
-import SectionActions from '../components/SectionActions';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -23,7 +22,6 @@ export const query = graphql`
 export default class Post extends React.Component {
     render() {
         let has_image = false;
-        let section = _.get(this.props, 'section', null);
         let image_pos = _.get(this.props, 'pageContext.frontmatter.image_position', null) || 'top';
         if (_.get(this.props, 'pageContext.frontmatter.image', null)) {
              has_image = true;
@@ -59,7 +57,7 @@ export default class Post extends React.Component {
             	<div className="container container--medium">
             		<div className="post__body text-block">
             			{htmlToReact(_.get(this.props, 'pageContext.html', null))}
-                        <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
+                        
             		</div>
             		{_.get(this.props, 'pageContext.frontmatter.tags', null) && (
             		<footer className="post__footer mt-4 mt-md-5">
