@@ -16,9 +16,10 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+Mistake # 2 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Getting too much sun exposure without protection
 
-- Lorem ipsum
-- dolor sit amet
+How this ages your body: It is common knowledge that ultraviolet (UV) rays are harmful to your skin because they damage skin fibers called elastin, which makes your skin stretch, sag & wrinkle
+
+What you can do to make a change: THINK SUN KISSED NOT SUN DRIED! Vitamin D is vital for our gut, bones and blood. So go out in the sun and enjoy, but if you’re going to be in the sun between 10 AM-2 PM for longer than 20 minutes, wear sun protective hats/clothing, or a natural, chemical free sunscreen.
