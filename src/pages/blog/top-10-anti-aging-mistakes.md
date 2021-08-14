@@ -56,7 +56,7 @@ I’ve helped lots of women like you learn simple tricks to look fabulous over 5
 
 Would you like to experience these results ? One conversation can spark a completely new perspective. Join me for a private, 1-1 “Fabulous Over 50 Breakthrough Session”.
 
-### Fabulous Over 50 Breakthrough Session
+##### Fabulous Over 50 Breakthrough Session
 
 In this complimentary 55-minute session, I’m going to lead you through a process to help you:
 
