@@ -22,7 +22,7 @@ template: post
 
 It is common knowledge that ultraviolet (UV) rays are harmful to your skin because they damage skin fibers called elastin, which makes your skin stretch, sag & wrinkle
 
-### What you can do to make a change:
+##### What you can do to make a change:
 
 > THINK SUN KISSED NOT SUN DRIED!
 
