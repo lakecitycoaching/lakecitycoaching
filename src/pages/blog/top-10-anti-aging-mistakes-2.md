@@ -22,8 +22,8 @@ template: post
 
 It is common knowledge that ultraviolet (UV) rays are harmful to your skin because they damage skin fibers called elastin, which makes your skin stretch, sag & wrinkle
 
-What you can do to make a change: 
+### What you can do to make a change:
 
-> THINK SUN KISSED NOT SUN DRIED! 
+> THINK SUN KISSED NOT SUN DRIED!
 
 Vitamin D is vital for our gut, bones and blood. So go out in the sun and enjoy, but if you’re going to be in the sun between 10 AM-2 PM for longer than 20 minutes, wear sun protective hats/clothing, or a natural, chemical free sunscreen.
