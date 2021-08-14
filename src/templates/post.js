@@ -57,7 +57,6 @@ export default class Post extends React.Component {
             	<div className="container container--medium">
             		<div className="post__body text-block">
             			{htmlToReact(_.get(this.props, 'pageContext.html', null))}
-                        
             		</div>
             		{_.get(this.props, 'pageContext.frontmatter.tags', null) && (
             		<footer className="post__footer mt-4 mt-md-5">
