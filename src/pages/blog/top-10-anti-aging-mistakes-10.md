@@ -24,6 +24,6 @@ Your eyes may be the window to your soul, but your teeth are what others see whe
 
 ##### What you can do to make a change:
 
-###### STRAWBERRY WHITENING PASTE!
+### STRAWBERRY WHITENING PASTE!
 
 Be mindful when you drink coffee, tea or red wine not to swoosh it around on your teeth like a mouthwash because it stains the teeth. Another trick is to use a natural tooth-whitener containing malic acid found in strawberry! Mash one strawberry to a pulp and mix with half a teaspoon of baking powder. Use a toothbrush to coat your teeth with the mixture. Leave on for five minutes and then brush! Now, go out and flash those pearly whites!
