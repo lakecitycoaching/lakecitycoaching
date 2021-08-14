@@ -30,9 +30,9 @@ Your hands and neck get even more sun exposure than your face does yet we often 
 
 Use the same exfoliating scrub, cleanser and moisturizer on your hands and neck as you do on your face. Protect them from prolonged sun exposure, and put coconut oil on your hands. (Coconut oil has a natural sun protection element to it, makes skin feel soft and subtle, and it’s very inexpensive.
 
-
-
 # Ready to learn more anti-aging mistakes to avoid?
+
+[Check out Mistake #7](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-7)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
@@ -69,3 +69,5 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 #### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
+
+[Check out Mistake #7](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-7)
