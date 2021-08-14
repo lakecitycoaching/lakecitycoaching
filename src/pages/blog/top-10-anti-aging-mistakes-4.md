@@ -28,9 +28,9 @@ CHANGE YOUR FOUNDATION….OR GO BARE! Let your skin breathe whenever you can!
 
 Instead of foundation use a tinted moisturizer or translucent makeup especially if you are prone to dry skin. If you do need extra coverage, then use a good quality makeup brush to apply a tiny bit only to the areas, spots or patches that really need
 
-
-
 # Ready to learn more anti-aging mistakes to avoid?
+
+[Check out Mistake #5](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-5)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
@@ -67,3 +67,5 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 #### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
+
+[Check out Mistake #5](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-5)
