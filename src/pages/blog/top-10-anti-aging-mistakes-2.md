@@ -16,9 +16,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-Mistake # 2 
-
-Getting too much sun exposure without protection
+# Getting too much sun exposure without protection
 
 How this ages your body: It is common knowledge that ultraviolet (UV) rays are harmful to your skin because they damage skin fibers called elastin, which makes your skin stretch, sag & wrinkle
 
