@@ -40,9 +40,11 @@ What you can do to make a change:
 
 Ditch the drying soap altogether and use one with a neutral pH (soaps with a pH of 7, or soaps with a balanced pH of 5). Household brand name bar soaps such as Ivory, Dial, Shield and Palmolive have a pH of 10 or more which is extremely caustic and damages the skin leading to all kinds of dermatological problems and premature aging so stay away from these!
 
-
-
 # Ready to learn more anti-aging mistakes to avoid?
+
+
+
+[Check out Mistake #6](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-6)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
@@ -79,3 +81,5 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 #### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
+
+[Check out Mistake #6](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-6)
