@@ -23,6 +23,7 @@ export const query = graphql`
 export default class Post extends React.Component {
     render() {
         let has_image = false;
+        let section = _.get(this.props, 'section', null);
         let image_pos = _.get(this.props, 'pageContext.frontmatter.image_position', null) || 'top';
         if (_.get(this.props, 'pageContext.frontmatter.image', null)) {
              has_image = true;
