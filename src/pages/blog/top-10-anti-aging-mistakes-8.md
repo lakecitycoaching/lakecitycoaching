@@ -16,9 +16,10 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+Mistake # 8 Turning to supplements instead of fresh produce for antioxidants
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+How this ages your skin: Vitamins may not age your skin and they can be useful but they can also be expensive so they shouldn’t replace the power of fresh, organic foods that are high in antioxidants (and fiber). Antioxidants are vitamins such as beta-carotene, vitamin C and vitamin E found in colorful fruits and veggies... especially berries. They protect us
 
-- Lorem ipsum
-- dolor sit amet
+from free radicals that cause our cells to age and can also boost collagen production to make our skin glow.
+
+What you can do to make a change: BERRY-LY EVER AFTER! Add a handful of organic mixed berries: blueberries, strawberries, blackberries and raspberries to your breakfast or protein drink. Over time, these super foods can actually reverse skin discoloration associated with aging because they help speed up your skin’s natural repair system.
