@@ -44,7 +44,7 @@ What you can do to make a change: DRINK WATER, DRINK WATER, DRINK WATER. Drinkin
 
 How much water should you drink? A good rule of thumb is to drink HALF your body weight in ounces of water per day. \*For example, if your body weight is 150 pounds, then you need to drink about 75 ounces of water per day to stay optimally hydrated.
 
-# Ready to learn more anti-aging mistakes to avoid?
+### Ready to learn more anti-aging mistakes to avoid?
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
@@ -81,7 +81,5 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 #### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
-
-
 
 [Check out Tip #2](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-2)
