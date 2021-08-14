@@ -30,9 +30,9 @@ What you can do to make a change:
 
 Think twice next time before turning your nose up at the cruciferous family of veggies in the produce section like broccoli, cauliflower, cabbage, kale, Brussels sprouts, turnips, bokchoy and kohlrabi. Add these to your diet and your skin will start to glow as though you’ve been soaking it up in mineral hot springs.
 
-
-
 # Ready to learn more anti-aging mistakes to avoid?
+
+[Check out Mistake #10](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-10)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
@@ -69,3 +69,5 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 #### Call 208-518-3759 or email <LakeCityCoaching@gmail.com> now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
+
+[Check out Mistake #10](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-3)
