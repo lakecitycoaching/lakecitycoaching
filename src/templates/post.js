@@ -8,7 +8,7 @@ import {classNames, withPrefix, htmlToReact} from '../utils';
 import BlogPostCategories from '../components/BlogPostCategories';
 import BlogPostAuthor from '../components/BlogPostAuthor';
 import BlogPostTags from '../components/BlogPostTags';
-import SectionActions from './SectionActions';
+import SectionActions from '../components/SectionActions';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
