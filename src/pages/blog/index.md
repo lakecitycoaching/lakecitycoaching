@@ -42,7 +42,6 @@ sections:
     has_border: true
     background_color: secondary
   - title: All Posts
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
