@@ -30,7 +30,7 @@ Instead of foundation use a tinted moisturizer or translucent makeup especially 
 
 # Ready to learn more anti-aging mistakes to avoid?
 
-[Check out Mistake #5](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-5)
+[Check out Mistake #5](/blog/top-10-anti-aging-mistakes-5)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
