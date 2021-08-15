@@ -32,7 +32,7 @@ Think twice next time before turning your nose up at the cruciferous family of v
 
 # Ready to learn more anti-aging mistakes to avoid?
 
-[Check out Mistake #10](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-10)
+[Check out Mistake #10](/blog/top-10-anti-aging-mistakes-10)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
