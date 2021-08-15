@@ -4,7 +4,7 @@ date: '2021-08-14'
 categories: []
 tags: []
 excerpt: Top 10 Anti-Aging Mistakes
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Top 10 Anti-Aging Mistakes
 image_alt: lorem-ipsum
 image_position: top
 seo:
