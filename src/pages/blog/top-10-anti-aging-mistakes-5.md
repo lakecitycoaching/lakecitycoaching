@@ -44,7 +44,7 @@ Ditch the drying soap altogether and use one with a neutral pH (soaps with a pH 
 
 
 
-[Check out Mistake #6](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-6)
+[Check out Mistake #6](/blog/top-10-anti-aging-mistakes-6)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
