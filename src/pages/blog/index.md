@@ -22,6 +22,7 @@ sections:
     has_border: true
     title: Recent Posts
     category: src/data/categories/tips.yaml
+    recent_count: 0
   - type: form_section
     title: Subscribe to our newsletter to make sure you don’t miss anything
     title_align: center
