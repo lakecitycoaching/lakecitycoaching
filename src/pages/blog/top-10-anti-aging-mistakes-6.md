@@ -32,7 +32,7 @@ Use the same exfoliating scrub, cleanser and moisturizer on your hands and neck 
 
 # Ready to learn more anti-aging mistakes to avoid?
 
-[Check out Mistake #7](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-7)
+[Check out Mistake #7](/blog/top-10-anti-aging-mistakes-7)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
