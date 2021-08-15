@@ -6,7 +6,7 @@ categories: []
 tags: []
 excerpt: Top 10 Anti-Aging Mistakes
 thumb_image_alt: Top 10 Anti-Aging Mistakes
-image_alt: lorem-ipsum
+image_alt: Top 10 Anti-Aging Mistakes
 image_position: top
 seo:
   title: ''
