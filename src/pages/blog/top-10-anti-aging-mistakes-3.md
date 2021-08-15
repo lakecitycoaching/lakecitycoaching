@@ -76,4 +76,4 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 
 
 
-[Check out Mistake #4](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-4)
+[Check out Mistake #4](/blog/top-10-anti-aging-mistakes-4)
