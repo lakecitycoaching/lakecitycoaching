@@ -82,4 +82,4 @@ PS—If you’re ready to uncover what’s been aging you, draining your energy 
 
 (\*This invitation is only valid while there are available times on my calendar)
 
-[Check out Mistake #2](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-2)
+[Check out Mistake #2](/blog/top-10-anti-aging-mistakes-2)
