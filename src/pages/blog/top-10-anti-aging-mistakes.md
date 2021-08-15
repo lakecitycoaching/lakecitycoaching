@@ -44,7 +44,7 @@ How much water should you drink? A good rule of thumb is to drink HALF your body
 
 ### Ready to learn more anti-aging mistakes to avoid?
 
-[Check out Mistake #2](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-2)
+[Check out Mistake #2](/blog/top-10-anti-aging-mistakes-2)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
