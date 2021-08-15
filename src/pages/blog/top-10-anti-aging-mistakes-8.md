@@ -30,7 +30,7 @@ Add a handful of organic mixed berries: blueberries, strawberries, blackberries 
 
 # Ready to learn more anti-aging mistakes to avoid?
 
-[Check out Mistake #9](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-9)
+[Check out Mistake #9](/blog/top-10-anti-aging-mistakes-9)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
