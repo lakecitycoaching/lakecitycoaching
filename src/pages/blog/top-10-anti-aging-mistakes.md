@@ -78,7 +78,7 @@ Invest 55 minutes of your time, and I guarantee you will walk away with at least
 
 PS—If you’re ready to uncover what’s been aging you, draining your energy or keeping you from feeling youthful and joyful, then NOW is the perfect time to schedule a private “Fabulous Over 50 Breakthrough Session” with me. I’ll help you discover which foods and lifestyle habits are aging YOU (every body is different)… and what to do about it. Plus I’ll show you how to get crystal clear on a step-by-step plan to look and feel 10 years younger in 90 days or less.
 
-#### Call 208-518-3759 or Contact Me now to secure your complimentary session
+#### Call 208-518-3759 or [Contact Me]() now to secure your complimentary session
 
 (\*This invitation is only valid while there are available times on my calendar)
 
