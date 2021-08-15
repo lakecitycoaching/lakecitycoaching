@@ -1,6 +1,5 @@
 ---
 title: 'Top 10 Anti-Aging Mistakes #7'
-subtitle: 'Mistake #7'
 date: '2021-08-14'
 categories: []
 tags: []
