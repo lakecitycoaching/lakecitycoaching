@@ -36,7 +36,7 @@ Dr Hyman recommends taking 1000 mg of fish oil twice daily with a 300/200 ratio 
 
 # Ready to learn more anti-aging mistakes to avoid?
 
-[Check out Mistake #4](www.lakecitycoaching.com/blog/top-10-anti-aging-mistakes-4)
+[Check out Mistake #4](/blog/top-10-anti-aging-mistakes-4)
 
 I’ve helped lots of women like you learn simple tricks to look fabulous over 50, so they can: •
 
