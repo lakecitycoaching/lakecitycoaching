@@ -4,7 +4,7 @@ subtitle: 'Mistake #10'
 date: '2021-08-14'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: Top 10 Anti-Aging Mistakes
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
