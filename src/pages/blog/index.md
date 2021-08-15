@@ -8,21 +8,6 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-  - type: blog_feed_section
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: false
-    show_date: false
-    show_categories: false
-    show_author: false
-    show_excerpt: true
-    show_image: true
-    padding_top: small
-    padding_bottom: large
-    has_border: true
-    title: Recent Posts
-    category: src/data/categories/tips.yaml
-    recent_count: 0
   - title: All Posts
     actions: []
     blog_feed_cols: three
